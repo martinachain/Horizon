@@ -56,7 +56,8 @@ Horizon collects news from multiple customizable sources, uses AI to score and f
 - **🔍 Content Enrichment** — Searches the web to provide background knowledge for unfamiliar concepts
 - **💬 Community Voices** — Collects and summarizes discussions from comments on HackerNews, Reddit, etc.
 - **🔗 Cross-Source Deduplication** — Merges duplicate items from different platforms automatically
-- **📰 Static Site Generation** — Deploys as a GitHub Pages site via GitHub Actions, updated on a schedule
+- **📧 Email Subscription** — Self-hosted newsletter system (SMTP/IMAP) that handles "Subscribe" requests automatically
+- **�📰 Static Site Generation** — Deploys as a GitHub Pages site via GitHub Actions, updated on a schedule
 - **⚙️ Fully Configurable** — Single JSON config file, easy to customize sources, thresholds, and AI providers
 
 ## How It Works
@@ -166,8 +167,9 @@ Horizon works great as a **GitHub Actions** cron job. See [`.github/workflows/da
 - [x] Web search for background enrichment
 - [x] Community discussion collection
 - [x] GitHub Pages deployment
-- [ ] Email / Slack / Webhook notification
+- [x] **Email Subscription** (SMTP/IMAP automated newsletter)
 - [x] Web UI dashboard
+- [ ] Slack / Webhook notification
 - [ ] More source types (Twitter/X, Discord, etc.)
 - [ ] Custom scoring prompts per source
 
