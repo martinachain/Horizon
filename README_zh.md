@@ -296,6 +296,8 @@ Horizon 已经支持完整的日报流程：多源抓取、AI 打分、去重、
 
 - 更多信息源类型，例如 Twitter/X 和 Discord
 - 按信息源自定义打分 Prompt
+- 在 GitHub 上发布 Release
+- 发布到 PyPI，支持通过 `pip install` 安装
 
 ## 贡献
 

@@ -296,6 +296,8 @@ Planned improvements:
 
 - More source types, such as Twitter/X and Discord
 - Custom scoring prompts per source
+- Publish releases on GitHub
+- Publish the package to PyPI for `pip install`
 
 ## Contributing
 
