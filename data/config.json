@@ -9,9 +9,17 @@
     "max_tokens": 4096,                                                             
     "throttle_sec": 0                                                               
   },                                                                              
-    "email": {    
-      "enabled": false                                                              
-    },            
+    "email": {                                                                        
+    "enabled": false,                                                               
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 465,                                                               
+    "imap_server": "imap.gmail.com",
+    "imap_port": 993,
+    "email_address": "placeholder@gmail.com",                                       
+    "sender_name": "Horizon Daily",
+    "subscribe_keyword": "SUBSCRIBE",                                               
+    "unsubscribe_keyword": "UNSUBSCRIBE"
+  },            
     "sources": {
       "hackernews": {
         "enabled": true,
