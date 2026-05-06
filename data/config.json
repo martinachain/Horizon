@@ -1,153 +1,75 @@
-{
-  "version": "1.0",
-  "ai": {
-    "provider": "openai",
-    "model": "deepseek-v4-pro",
-    "base_url": "https://api.deepseek.com",
-    "api_key_env": "OPENAI_API_KEY",
-    "temperature": 0.3,
-    "max_tokens": 8192,
-    "languages": [
-      "zh",
-      "en"
-    ]
-  },
-  "sources": {
-    "github": [
-      {
-        "type": "user_events",
-        "username": "karpathy",
-        "enabled": true
-      },
-      {
-        "type": "repo_releases",
-        "owner": "vllm-project",
-        "repo": "vllm",
-        "enabled": true
-      },
-      {
-        "type": "repo_releases",
-        "owner": "sgl-project",
-        "repo": "sglang",
-        "enabled": true
-      },
-      {
-        "type": "repo_releases",
-        "owner": "triton-lang",
-        "repo": "triton",
-        "enabled": true
-      }
-    ],
-    "hackernews": {
-      "enabled": true,
-      "fetch_top_stories": 30,
-      "min_score": 150
-    },
-    "rss": [
-      {
-        "name": "Simon Willison",
-        "url": "https://simonwillison.net/atom/everything/",
+{                                                                                 
+    "version": "1.0",
+    "ai": {
+      "provider": "anthropic",                                                      
+      "model": "claude-opus-4-5",
+      "api_key_env": "ANTHROPIC_API_KEY",                                           
+      "temperature": 0.3,
+      "max_tokens": 4096,                                                           
+      "throttle_sec": 0
+    },                                                                              
+    "email": {    
+      "enabled": false                                                              
+    },            
+    "sources": {
+      "hackernews": {
         "enabled": true,
-        "category": "ai-tools"
+        "fetch_top_stories": 20,
+        "min_score": 100                                                            
       },
-      {
-        "name": "GitHub Trending - Daily",
-        "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+      "rss": [                                                                      
+        {                                                                           
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",                 
+          "enabled": true,                                                          
+          "category": "crypto"                                                      
+        },                                                                          
+        {                                                                           
+          "name": "Decrypt",
+          "url": "https://decrypt.co/feed",
+          "enabled": true,                                                          
+          "category": "crypto"
+        },                                                                          
+        {         
+          "name": "The Block",
+          "url": "https://www.theblock.co/rss.xml",
+          "enabled": true,                                                          
+          "category": "crypto"
+        }                                                                           
+      ],          
+      "reddit": {
         "enabled": true,
-        "category": "github-trending"
+        "subreddits": [
+          {                                                                         
+            "subreddit": "CryptoCurrency",
+            "enabled": true,                                                        
+            "sort": "hot",
+            "time_filter": "day",                                                   
+            "fetch_limit": 15,
+            "min_score": 100                                                        
+          },      
+          {                                                                         
+            "subreddit": "defi",
+            "enabled": true,
+            "sort": "hot",
+            "time_filter": "day",                                                   
+            "fetch_limit": 10,
+            "min_score": 50                                                         
+          }       
+        ],
+        "users": [],
+        "fetch_comments": 3                                                         
       },
-      {
-        "name": "LWN.net",
-        "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
-        "enabled": true,
-        "category": "linux-kernel"
-      }
-    ],
-    "reddit": {
-      "enabled": true,
-      "subreddits": [
-        {
-          "subreddit": "MachineLearning",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 15,
-          "min_score": 60
-        },
-        {
-          "subreddit": "LocalLLaMA",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 15,
-          "min_score": 60
-        }
-      ],
-      "users": [],
-      "fetch_comments": 10
+      "twitter": {                                                                  
+        "enabled": false
+      },
+      "github": []
+    },                                                                              
+    "filtering": {
+      "ai_score_threshold": 6.0,                                                    
+      "time_window_hours": 24
     },
-    "telegram": {
-      "enabled": true,
-      "channels": [
-        {
-          "channel": "zaihuapd",
-          "enabled": true,
-          "fetch_limit": 20
-        }
-      ]
-    },
-    "twitter": {
-      "enabled": true,
-      "users": [
-        "karpathy",
-        "roifex"
-      ],
-      "fetch_limit": 10,
-      "fetch_reply_text": false,
-      "max_replies_per_tweet": 3,
-      "max_tweets_to_expand": 10,
-      "reply_min_likes": 5
-    }
-  },
-  "filtering": {
-    "ai_score_threshold": 8.0,
-    "time_window_hours": 24
-  },
-  "webhook": {
-    "enabled": true,
-    "url_env": "HORIZON_WEBHOOK_URL",
-    "delivery": "summary_and_items",
-    "overview_position": "last",
-    "platform": "feishu",
-    "layout": "collapsible",
-    "fallback_layout": "markdown",
-    "languages": [
-      "zh"
-    ],
-    "request_body": {
-      "msg_type": "interactive",
-      "card": {
-        "schema": "2.0",
-        "config": {
-          "wide_screen_mode": true
-        },
-        "header": {
-          "title": {
-            "tag": "plain_text",
-            "content": "#{message_title}"
-          },
-          "template": "blue"
-        },
-        "body": {
-          "elements": [
-            {
-              "tag": "markdown",
-              "content": "#{summary}"
-            }
-          ]
-        }
-      }
-    },
-    "headers": ""
+    "webhook": {                                                                    
+      "enabled": false
+    }                                                                               
   }
-}
