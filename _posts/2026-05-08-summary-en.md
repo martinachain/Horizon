@@ -5,368 +5,387 @@ date: 2026-05-08
 lang: en
 ---
 
-> From 93 items, 36 important content pieces were selected
+> From 94 items, 35 important content pieces were selected
 
 ---
 
-1. [Dirtyfrag: Universal Linux LPE Vulnerability Disclosed Without Patches](#item-1) ⭐️ 9.0/10
-2. [Anthropic's NLAs Turn Model Activations into Readable Text](#item-2) ⭐️ 9.0/10
-3. [Canvas LMS Down After ShinyHunters Breach During Finals](#item-3) ⭐️ 8.0/10
-4. [Should You Delay Software Installs?](#item-4) ⭐️ 8.0/10
-5. [AI Agents Need Control Flow, Not More Prompts](#item-5) ⭐️ 8.0/10
-6. [Cloudflare Lays Off 1100 Employees (20% of Workforce)](#item-6) ⭐️ 8.0/10
-7. [AlphaEvolve: Gemini-powered coding agent scales impact across fields](#item-7) ⭐️ 8.0/10
+1. [Dirtyfrag: Universal Linux LPE via AF_ALG](#item-1) ⭐️ 9.0/10
+2. [Anthropic Releases Natural Language Autoencoders](#item-2) ⭐️ 9.0/10
+3. [Canvas Down After ShinyHunters Breach, Data Leak Threatens](#item-3) ⭐️ 8.0/10
+4. [Delay Software Installs to Thwart Supply Chain Attacks](#item-4) ⭐️ 8.0/10
+5. [Cloudflare to cut about 20% workforce](#item-5) ⭐️ 8.0/10
+6. [Agents need control flow, not more prompts](#item-6) ⭐️ 8.0/10
+7. [AlphaEvolve: Gemini-powered coding agent scales impact](#item-7) ⭐️ 8.0/10
 8. [DeepSeek 4 Flash Local Inference Engine for Metal](#item-8) ⭐️ 8.0/10
 9. [AI Slop Eroding Trust in Online Communities](#item-9) ⭐️ 8.0/10
-10. [Brazil's Pix faces pressure from Visa and Mastercard](#item-10) ⭐️ 8.0/10
-11. [Chrome Removes Privacy Promise for On-Device AI](#item-11) ⭐️ 8.0/10
-12. [AI Chatbots Leak User Chats to Ad Trackers](#item-12) ⭐️ 8.0/10
-13. [Tether's Medical AI Runs on Phone, Beats Models 16x Larger](#item-13) ⭐️ 8.0/10
+10. [Amazon, Coinbase, Stripe Build Stablecoin Payment Rails for AI Agents](#item-10) ⭐️ 8.0/10
+11. [Chrome Deleted Its Own Privacy Promise for Sneaky On-Device AI](#item-11) ⭐️ 8.0/10
+12. [AI Chatbots Leak User Data to Ad Trackers](#item-12) ⭐️ 8.0/10
+13. [Tether's Medical AI Runs on Phones, Beats Models 16x Larger](#item-13) ⭐️ 8.0/10
 14. [Google Boosts Local AI Speed 3x Without New Hardware](#item-14) ⭐️ 8.0/10
-15. [Aave Overhauls Collateral Rules After KelpDAO Exploit](#item-15) ⭐️ 7.0/10
-16. [IMF Warns AI Will Supercharge Cyberattacks on Global Financial System](#item-16) ⭐️ 7.0/10
-17. [Amazon Teams With Coinbase and Stripe to Let AI Agents Pay With Stablecoins](#item-17) ⭐️ 7.0/10
+15. [Brazil's Pix faces pressure from Visa and Mastercard](#item-15) ⭐️ 7.0/10
+16. [Aave Overhauls Collateral and Listing Standards After KelpDAO Exploit](#item-16) ⭐️ 7.0/10
+17. [IMF Warns AI Will Supercharge Cyberattacks on Financial System](#item-17) ⭐️ 7.0/10
 18. [TrustedVolumes DeFi Exploit Drains $6.7M](#item-18) ⭐️ 7.0/10
-19. [Chrome Quietly Installs 4GB AI Model, Re-downloads if Deleted](#item-19) ⭐️ 7.0/10
-20. [AI Reads Plain-Language Chemistry Instructions to Design Molecules](#item-20) ⭐️ 7.0/10
-21. [Quantum Threat to Bitcoin, Ethereum Could Hit by 2030](#item-21) ⭐️ 7.0/10
-22. [Ondo, JPMorgan, Mastercard, Ripple Team for Tokenized Treasuries on XRPL](#item-22) ⭐️ 7.0/10
-23. [Google DeepMind Invests in Eve Online Maker for AI Research](#item-23) ⭐️ 7.0/10
-24. [Nvidia backs IREN with warrants for 30M shares](#item-24) ⭐️ 7.0/10
-25. [Map and Process for Burning Man Cleanup](#item-25) ⭐️ 6.0/10
-26. [20 Banks and Tech Giants Queue to Issue Stablecoins via Anchorage](#item-26) ⭐️ 6.0/10
-27. [Solv Protocol Moves $700M Bitcoin from LayerZero to Chainlink](#item-27) ⭐️ 6.0/10
+19. [AI Framework Reads Plain Chemistry Instructions to Find Optimal Synthesis Routes](#item-19) ⭐️ 7.0/10
+20. [Quantum Threat to Bitcoin and Ethereum Could Hit by 2030](#item-20) ⭐️ 7.0/10
+21. [Ondo, JPMorgan, Mastercard, Ripple Settle Tokenized Treasuries on XRP Ledger](#item-21) ⭐️ 7.0/10
+22. [Google DeepMind Takes Stake in Eve Online Maker for AI Testing](#item-22) ⭐️ 7.0/10
+23. [IREN stock surges as Nvidia backs AI expansion with warrants](#item-23) ⭐️ 7.0/10
+24. [Burning Man's Meticulous Cleanup Map](#item-24) ⭐️ 6.0/10
+25. [20 Banks and Tech Giants Queue to Issue Stablecoins via Anchorage](#item-25) ⭐️ 6.0/10
+26. [Solv Protocol Moves $700M in Tokenized Bitcoin from LayerZero to Chainlink](#item-26) ⭐️ 6.0/10
+27. [Kalshi Raises $1B at $22B Valuation Amid Prediction Market Boom](#item-27) ⭐️ 6.0/10
 28. [MEV Bot Front-Runs Vitalik Buterin's $4 Swap with $1M Volume](#item-28) ⭐️ 6.0/10
-29. [Kraken Parent Buys Stablecoin Firm Reap for $600M](#item-29) ⭐️ 6.0/10
-30. [SpaceX and xAI to Power Anthropic's Claude in Surprise Deal](#item-30) ⭐️ 6.0/10
-31. [Richard Dawkins Suggests Claude AI May Be Conscious](#item-31) ⭐️ 6.0/10
-32. [Anthropic Launches 10 AI Agent Templates for Finance](#item-32) ⭐️ 6.0/10
-33. [Hut 8 Hits All-Time High on $9.8B AI Data Center Lease](#item-33) ⭐️ 6.0/10
-34. [Apple Settles AI Misleading Claims for $250 Million](#item-34) ⭐️ 6.0/10
-35. [US Treasury Demands Binance Comply with 2023 Monitoring Deal](#item-35) ⭐️ 6.0/10
-36. [Kalshi hits $22B valuation after $1B Series F led by Coatue](#item-36) ⭐️ 6.0/10
+29. [Bitwise acquires Superstate's $267M carry fund for tokenization push](#item-29) ⭐️ 6.0/10
+30. [Kraken Parent Buys Asian Stablecoin Firm Reap for $600M](#item-30) ⭐️ 6.0/10
+31. [SpaceX to Power Anthropic's Claude in Surprise AI Deal](#item-31) ⭐️ 6.0/10
+32. [Dawkins Suggests Claude AI May Be Conscious](#item-32) ⭐️ 6.0/10
+33. [Anthropic Launches 10 AI Agent Templates for Finance](#item-33) ⭐️ 6.0/10
+34. [Hut 8 Shares Hit All-Time High on $9.8B AI Data Center Lease](#item-34) ⭐️ 6.0/10
+35. [US Treasury Demands Binance Comply with Monitoring Guidelines](#item-35) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Dirtyfrag: Universal Linux LPE Vulnerability Disclosed Without Patches](https://www.openwall.com/lists/oss-security/2026/05/07/8) ⭐️ 9.0/10
+## [Dirtyfrag: Universal Linux LPE via AF_ALG](https://www.openwall.com/lists/oss-security/2026/05/07/8) ⭐️ 9.0/10
 
-A new universal Linux local privilege escalation vulnerability called Dirtyfrag has been publicly disclosed on May 7, 2026, with a working exploit, breaking the embargo and leaving no patches or CVEs available. This vulnerability affects Linux kernel versions 5.10 to 6.9.x, potentially impacting 70% of Linux cloud servers, and allows any local low-privilege user to gain root privileges, posing a critical threat to Kubernetes nodes and cloud environments. Dirtyfrag exploits a page-cache write similar to the Copy Fail vulnerability, using an ESP-style approach to overwrite /etc/passwd and remove the root password, enabling privilege escalation without authentication.
+A new universal Linux local privilege escalation vulnerability called Dirtyfrag has been disclosed, exploiting kernel memory corruption via AF_ALG and network sockets, with no patches or CVEs available yet. Dirtyfrag affects all major Linux distributions, allowing unprivileged users to gain root access, and its similarity to the recent Copy Fail vulnerability highlights systemic kernel security issues. The vulnerability chain includes an out-of-bounds write via xfrm-ESP page-cache corruption, similar to Copy Fail, but exploitable through plain network sockets; a mitigation workaround involves blacklisting kernel modules esp4, esp6, and rxrpc.
 
 hackernews · flipped · May 7, 19:21 · [Discussion](https://news.ycombinator.com/item?id=48053623)
 
-**Background**: Local privilege escalation (LPE) vulnerabilities allow an attacker with limited access to gain higher privileges, such as root. The Linux kernel's cryptographic subsystem (AF_ALG) and page-cache mechanism have been recent targets, as seen with the Copy Fail vulnerability (CVE-2026-31431). Dirtyfrag is a new variant that exploits the same underlying issue through network sockets (ESP), making it more widely exploitable.
+**Background**: AF_ALG is a Linux kernel socket interface for userspace to access cryptographic algorithms. Local privilege escalation (LPE) vulnerabilities allow an unprivileged user to gain root access. The recently disclosed Copy Fail (CVE-2026-31431) exploited a similar flaw in algif_aead via AF_ALG and splice(). Dirtyfrag extends this attack surface to network sockets.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/V4bel/dirtyfrag">GitHub - V4bel/ dirtyfrag · GitHub</a></li>
-<li><a href="https://github.com/V4bel/dirtyfrag/blob/master/assets/write-up.md">dirtyfrag/assets/write-up.md at master · V4bel/dirtyfrag</a></li>
-<li><a href="https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/">CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments | Microsoft Security Blog</a></li>
+<li><a href="https://almalinux.org/blog/2026-05-07-dirty-frag/">Dirty Frag vulnerability fix is ready for testing - AlmaLinux OS</a></li>
+<li><a href="https://support.plesk.com/hc/en-us/articles/40314546777239-Dirty-Frag-vulnerability-reported-for-Linux-kernel">Dirty Frag vulnerability reported for Linux kernel - Plesk Support</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community notes the root cause similarity to Copy Fail, with some researchers criticizing the lack of proper fix for the authencesn issue. There is concern about the timing, as AWS just released patches for Copy Fail, and mitigation before a patch for Dirtyfrag is difficult, especially on Kubernetes nodes.
+**Discussion**: Commenters note the root cause similarity to Copy Fail, with one researcher stating that the xfrm-ESP page-cache write shares the same sink. Another criticizes distros for enabling optional kernel functionality by default, increasing attack surface. The embargo break and lack of patches have raised urgency.
 
-**Tags**: `#Linux`, `#security`, `#vulnerability`, `#LPE`, `#kernel`
+**Tags**: `#Linux`, `#kernel`, `#security`, `#privilege escalation`, `#vulnerability`
 
 ---
 
 <a id="item-2"></a>
-## [Anthropic's NLAs Turn Model Activations into Readable Text](https://www.anthropic.com/research/natural-language-autoencoders) ⭐️ 9.0/10
+## [Anthropic Releases Natural Language Autoencoders](https://www.anthropic.com/research/natural-language-autoencoders) ⭐️ 9.0/10
 
-Anthropic introduced Natural Language Autoencoders (NLAs), a method that translates internal model activations into natural language text, and released open-weight NLA models for Qwen 2.5 (7B), Gemma 3 (12B, 27B), and Llama 3.3 (70B). This is a major step forward in AI interpretability, offering a direct window into what language models 'think' at the activation level, which could improve safety and trust in AI systems. The NLA consists of a 'verbalizer' that maps activations to text and a 'reconstructor' that inverts the text back to activations, trained with a simple reconstruction loss and careful initialization. The open-weight models are available on GitHub and Hugging Face.
+Anthropic has released open-weight natural language autoencoders that translate internal model activations into human-readable text, supporting Qwen 2.5 (7B), Gemma 3 (12B, 27B), and Llama 3.3 (70B). This breakthrough provides a scalable path to understanding what large language models internally represent, potentially enabling safer and more transparent AI systems. The autoencoder consists of an activation verbalizer that maps activations to text and an activation reconstructor that recovers the original activations from that text; the objective does not explicitly enforce human readability, which raises questions about whether the explanations are faithful.
 
 hackernews · instagraham · May 7, 17:54 · [Discussion](https://news.ycombinator.com/item?id=48052537)
 
-**Background**: Autoencoders are neural networks that learn efficient representations of data by encoding input into a compressed form and then decoding it back. In AI interpretability, researchers often analyze model activations—the internal signals flowing through a neural network—to understand what features the model is using. NLAs apply this concept to produce human-readable text that describes those activations.
+**Background**: Mechanistic interpretability aims to reverse-engineer neural networks by analyzing their internal activations. Traditional methods like sparse autoencoders decompose activations into interpretable features, but natural language autoencoders go further by translating entire activation vectors into coherent text descriptions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.anthropic.com/research/natural-language-autoencoders">Natural Language Autoencoders: Turning Claude’s thoughts into text</a></li>
+<li><a href="https://www.anthropic.com/research/natural-language-autoencoders">Natural Language Autoencoders \ Anthropic</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community is highly engaged, with comments praising the simple yet effective approach and Anthropic's release of open-weight models. Some commenters raise concerns about whether the generated text truly reflects the model's internal reasoning or merely produces plausible-sounding descriptions.
+**Discussion**: The community is excited about the open-weight release and sees it as a plausible path to model understanding, but some commenters question whether the generated text truly reflects the model's internal reasoning or is merely plausible-sounding. Others note that the training objective does not guarantee human-readable explanations, and there are concerns about potential data contamination in safety tests.
 
-**Tags**: `#interpretability`, `#AI safety`, `#open source`, `#transformer circuits`, `#Anthropic`
+**Tags**: `#interpretability`, `#AI safety`, `#open-source`, `#transformer circuits`, `#Anthropic`
 
 ---
 
 <a id="item-3"></a>
-## [Canvas LMS Down After ShinyHunters Breach During Finals](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach) ⭐️ 8.0/10
+## [Canvas Down After ShinyHunters Breach, Data Leak Threatens](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach) ⭐️ 8.0/10
 
-On May 7, 2026, the Canvas learning management system experienced a major outage after the ShinyHunters hacking group claimed to have breached its parent company Instructure, stealing data from over 275 million users across 9,000 schools. This incident disrupts millions of students and educators during final exams, highlighting the vulnerability of critical educational infrastructure and reigniting debates on ransomware payments and cybersecurity preparedness. ShinyHunters defaced Canvas login portals for hundreds of colleges and threatened to leak stolen data unless a ransom is paid. The breach follows a previous Instructure hack also attributed to the group.
+Canvas, the popular learning management system by Instructure, experienced a nationwide outage on May 7, 2026, after the hacker group ShinyHunters claimed a breach and threatened to leak sensitive school data. This incident disrupts millions of students and educators during final exams, highlighting the vulnerability of critical educational infrastructure to ransomware attacks and the real-world consequences of data breaches. ShinyHunters is known for a 'pay or leak' strategy, and the breach reportedly involved defacing school login pages. The outage forced universities to scramble for contingency plans during exam week.
 
 hackernews · stefanpie · May 7, 22:22 · [Discussion](https://news.ycombinator.com/item?id=48055913)
 
-**Background**: Canvas is a widely used learning management system (LMS) owned by Instructure, serving K-12 and higher education institutions. ShinyHunters is a cybercriminal group known for data breaches and extortion, often leaking data if ransoms are not paid.
+**Background**: Canvas is a cloud-based LMS widely used in K-12, higher education, and corporate training. ShinyHunters is a cybercrime group that emerged in 2020, responsible for numerous high-profile data breaches and extortion campaigns.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_Canvas_security_incident">2026 Canvas security incident - Wikipedia</a></li>
-<li><a href="https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/">Canvas login portals hacked in mass ShinyHunters extortion ...</a></li>
-<li><a href="https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/">Hackers deface school login pages after claiming another Instructure ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ShinyHunters">ShinyHunters</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Canvas_LMS">Canvas LMS</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Instructure">Instructure</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments express frustration and concern, with educators noting the outage during finals and lack of offline backups. Some debate the legality of ransomware payments, while others criticize universities' reliance on a single platform without contingency plans.
+**Discussion**: Community comments express frustration and concern, with educators noting the outage's severe impact on final exams. Some commenters criticize the lack of transparency from Instructure, while others debate the ethics of paying ransoms and the need for stronger security measures.
 
-**Tags**: `#security`, `#data breach`, `#education`, `#ransomware`, `#Canvas`
+**Tags**: `#security`, `#breach`, `#education`, `#LMS`, `#ransomware`
 
 ---
 
 <a id="item-4"></a>
-## [Should You Delay Software Installs?](https://xeiaso.net/blog/2026/abstain-from-install/) ⭐️ 8.0/10
+## [Delay Software Installs to Thwart Supply Chain Attacks](https://xeiaso.net/blog/2026/abstain-from-install/) ⭐️ 8.0/10
 
-A blog post by Xe Iaso suggests users abstain from installing new software for a week to mitigate supply chain attacks, sparking a nuanced debate on security trade-offs. This proposal highlights the growing threat of software supply chain attacks and the difficulty of balancing security with convenience in modern development workflows. The suggestion is controversial because attackers can time exploits to activate after a delay, and many security fixes require immediate deployment to prevent active exploitation.
+A blog post by Xe Iaso suggests users abstain from installing new software for a week to mitigate supply chain attacks, sparking debate on security trade-offs. This proposal highlights the growing threat of software supply chain attacks and the difficulty of balancing convenience with security in modern development workflows. The suggestion involves waiting a week before installing new packages, relying on the fact that many high-profile attacks are caught and rolled back within a day. However, critics note that sophisticated attackers can time their exploits to bypass such delays.
 
 hackernews · psxuaw · May 7, 23:02 · [Discussion](https://news.ycombinator.com/item?id=48056227)
 
-**Background**: Software supply chain attacks target trusted third-party vendors or open-source packages to inject malicious code into widely used software. Recent high-profile incidents have prompted calls for better security practices, but delaying installations can also leave systems vulnerable to known exploits.
+**Background**: Software supply chain attacks target the dependencies and build pipelines of software projects, often by injecting malicious code into popular packages. Recent incidents have shown that attackers can compromise trusted repositories and CI/CD systems, affecting thousands of downstream users. The proposal to delay installations is a pragmatic but imperfect defense.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.cisa.gov/resources-tools/resources/defending-against-software-supply-chain-attacks">Defending Against Software Supply Chain Attacks - CISA</a></li>
-<li><a href="https://www.crowdstrike.com/en-us/cybersecurity-101/cyberattacks/supply-chain-attack/">What Is a Supply Chain Attack? - CrowdStrike</a></li>
+<li><a href="https://cheatsheetseries.owasp.org/cheatsheets/Software_Supply_Chain_Security_Cheat_Sheet.html">Software Supply Chain Security - OWASP Cheat Sheet Series</a></li>
+<li><a href="https://www.splunk.com/en_us/blog/learn/software-supply-chain-security.html">Software Supply Chain Security: Proven Frameworks & Tactics to Stay Ahead of Threats | Splunk</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Comments are mixed: some support the idea as a pragmatic measure, while others argue it's ineffective against timed attacks and undermines rapid patching. FreeBSD security expert cperciva advocates for a more robust OS security model instead.
+**Discussion**: Comments are mixed: some agree that delaying installs is a reasonable mitigation, while others argue it's ineffective against timed attacks. A FreeBSD developer suggests using more secure operating systems with coordinated updates as a better alternative.
 
-**Tags**: `#security`, `#supply chain`, `#software engineering`, `#open source`, `#best practices`
+**Tags**: `#security`, `#supply chain`, `#software engineering`, `#open source`
 
 ---
 
 <a id="item-5"></a>
-## [AI Agents Need Control Flow, Not More Prompts](https://bsuh.bearblog.dev/agents-need-control-flow/) ⭐️ 8.0/10
+## [Cloudflare to cut about 20% workforce](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/) ⭐️ 8.0/10
 
-A blog post argues that AI agents should rely on deterministic control flow and code rather than increasingly complex prompts, challenging the prevalent 'more prompting' approach. This matters because it highlights a fundamental shift in how reliable AI agents are built, potentially improving their robustness and reducing reliance on fragile prompt engineering. The post notes that prompting has hit a functional ceiling, with developers resorting to 'MANDATORY' instructions to combat non-determinism, and suggests moving from runtime LLM use to LLM-assisted software generation.
+Cloudflare announced it will lay off approximately 20% of its workforce, affecting over 1,100 employees, as part of a restructuring plan to focus on long-term growth. This significant reduction at a major internet infrastructure company signals potential industry-wide cost-cutting trends and raises concerns about job security in the tech sector. The layoffs come just months after Cloudflare hired 1,111 interns in September 2025, highlighting a stark contrast in hiring strategy. Affected employees will receive full base pay through end of 2026, healthcare coverage, and accelerated equity vesting.
+
+hackernews · PriorityLeft · May 7, 20:23 · [Discussion](https://news.ycombinator.com/item?id=48054423)
+
+**Background**: Cloudflare is a major content delivery network and cloud security company. Layoffs of this magnitude often reflect shifts in corporate strategy or market conditions, and can have ripple effects across the tech industry.
+
+**Discussion**: Community comments express shock and disappointment, with affected employees sharing personal stories. Some criticize the timing, noting the contrast with recent large-scale intern hiring, while others question the company's justification.
+
+**Tags**: `#layoffs`, `#Cloudflare`, `#tech industry`, `#workforce reduction`, `#Hacker News`
+
+---
+
+<a id="item-6"></a>
+## [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/) ⭐️ 8.0/10
+
+The article argues that building reliable AI agents requires explicit control flow and code generation rather than relying on improved prompting, challenging the common approach of prompt engineering. This insight could shift how developers design AI agents, emphasizing deterministic logic over black-box prompting, leading to more robust and verifiable systems in production. The author suggests that when prompting hits its limits, developers should use LLMs to write code that accomplishes tasks deterministically, reducing runtime reliance on LLMs.
 
 hackernews · bsuh · May 7, 16:43 · [Discussion](https://news.ycombinator.com/item?id=48051562)
 
-**Background**: AI agents often use large language models (LLMs) to interpret tasks via prompts, but this approach is probabilistic and can be unreliable. Control flow, as used in traditional programming, provides deterministic execution paths, making agent behavior more predictable and verifiable.
+**Background**: Current AI agents often rely on large language models (LLMs) with carefully crafted prompts to perform tasks. However, prompting can be unreliable for complex, multi-step workflows. Control flow frameworks like ControlFlow provide structured task definitions and orchestration, while code generation approaches like CodeAct use executable code for actions, offering more deterministic behavior.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://thecodersblog.com/agent-control-flow-for-ai-agents-2026/">AI Agents Need Control Flow, Not More Prompts | The Coders ...</a></li>
-<li><a href="https://aitoolly.com/ai-news/article/2026-05-08-why-ai-agents-require-deterministic-control-flow-over-elaborate-prompt-engineering">AI Agents: Why Control Flow Beats Prompt Engineering</a></li>
-<li><a href="https://bethere.ai/articles/prompt-engineer-not-deterministic.html">Why Prompt Engineering Will Never Be As Deterministic As Programming | BeThere</a></li>
+<li><a href="https://machinelearning.apple.com/research/codeact">CodeAct: Your LLM Agent Acts Better when Generating Code</a></li>
+<li><a href="https://www.prefect.io/blog/controlflow-intro">Introducing ControlFlow</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments strongly agree with the thesis, with one user noting that LLMs are often misapplied and should instead write code for deterministic tasks. Another suggests shifting from runtime LLM use to LLM-assisted software generation, while a third calls for next-generation AI beyond LLMs.
+**Discussion**: Commenters largely agree with the sentiment, noting that LLMs should be used to write code for deterministic tasks rather than being relied upon at runtime. Some suggest that the role of LLMs at runtime will shrink to helping users choose compliant inputs to a software system that embodies hard business rules.
 
 **Tags**: `#AI agents`, `#LLM`, `#software engineering`, `#control flow`, `#prompting`
 
 ---
 
-<a id="item-6"></a>
-## [Cloudflare Lays Off 1100 Employees (20% of Workforce)](https://blog.cloudflare.com/building-for-the-future/) ⭐️ 8.0/10
-
-Cloudflare announced it is laying off approximately 1,100 employees, representing 20% of its workforce, in a move titled 'Building for the Future.' The layoffs were announced in May 2026, just months after the company hired 1,111 interns in September 2025. This significant reduction at a major tech infrastructure company highlights the ongoing volatility in the tech industry, where rapid hiring and layoffs can occur within the same year. The timing and messaging have sparked debate about corporate transparency and the human impact of workforce restructuring. Departing employees will receive full base pay through the end of 2026, healthcare coverage through the end of the year in the US, and accelerated equity vesting through August 15th, including waiving one-year cliffs for those who haven't reached them. The layoff announcement follows a recent intern hiring spree, drawing criticism for the contrasting messages.
-
-hackernews · PriorityLeft · May 7, 20:23 · [Discussion](https://news.ycombinator.com/item?id=48054423)
-
-**Background**: Cloudflare is a major content delivery network and cloud security provider. The company had hired 1,111 interns in September 2025 under a program titled 'Help build the future,' which contrasts sharply with the current layoff messaging. The layoffs come amid broader tech industry trends of cost-cutting and AI-related restructuring.
-
-**Discussion**: Community comments are highly critical, with users pointing out the irony of hiring 1,111 interns under a similar slogan just months before laying off 1,100 people. Many dislike the vague title 'Building for the Future' for not clearly indicating a layoff. Affected employees are also posting seeking new jobs, and some speculate that layoffs may be driven by rising AI costs without corresponding revenue gains.
-
-**Tags**: `#layoffs`, `#cloudflare`, `#tech industry`, `#workforce reduction`, `#hacker news discussion`
-
----
-
 <a id="item-7"></a>
-## [AlphaEvolve: Gemini-powered coding agent scales impact across fields](https://deepmind.google/blog/alphaevolve-impact/) ⭐️ 8.0/10
+## [AlphaEvolve: Gemini-powered coding agent scales impact](https://deepmind.google/blog/alphaevolve-impact/) ⭐️ 8.0/10
 
-Google DeepMind unveiled AlphaEvolve in May 2025, a Gemini-powered coding agent that autonomously optimizes algorithms and systems, from low-level hardware circuits to high-level codebases. AlphaEvolve represents a significant step toward AI self-improvement, as it can optimize the very hardware and software that run AI models, potentially accelerating progress across scientific and engineering domains. AlphaEvolve proposed a circuit design so efficient it was integrated into Google's next-generation TPUs, demonstrating its ability to improve AI infrastructure. It goes beyond single-function optimization to evolve entire codebases.
+Google DeepMind unveiled AlphaEvolve, a Gemini-powered coding agent that designs advanced algorithms and has been deployed across Google's infrastructure to optimize critical systems. AlphaEvolve demonstrates AI's ability to improve itself and solve open problems in mathematics and computer science, potentially accelerating research and reducing human effort in algorithm design. AlphaEvolve uses an evolutionary approach combined with Gemini LLMs to iteratively generate and optimize algorithms, and it has already been applied to real-world Google infrastructure.
 
 hackernews · berlianta · May 7, 15:02 · [Discussion](https://news.ycombinator.com/item?id=48050278)
 
-**Background**: AlphaEvolve is an evolutionary coding agent built on large language models like Gemini. It uses an evolutionary algorithm to iteratively generate and test code variations, optimizing for objectives like speed or efficiency. This approach builds on DeepMind's earlier work in AI-driven algorithm discovery.
+**Background**: Coding agents are AI systems that can write and optimize code autonomously. AlphaEvolve builds on Google's Gemini models and evolutionary algorithms to create a self-improving system that can tackle complex algorithmic challenges across various fields.
 
 <details><summary>References</summary>
 <ul>
+<li><a href="https://deepmind.google/blog/alphaevolve-impact/">AlphaEvolve: Gemini-powered coding agent scaling impact ...</a></li>
 <li><a href="https://en.wikipedia.org/wiki/AlphaEvolve">AlphaEvolve - Wikipedia</a></li>
-<li><a href="https://deepmind.google/blog/alphaevolve-impact/">AlphaEvolve: Gemini-powered coding agent scaling impact across fields — Google DeepMind</a></li>
-<li><a href="https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/">AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms — Google DeepMind</a></li>
+<li><a href="https://thecodersblog.com/alphaevolve-gemini-powered-coding-agent-2026/">AlphaEvolve: Gemini AI Powers Next-Gen Coding Agent</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion highlights that AlphaEvolve is one of few companies (Google, Sakana AI, Autohand AI) working on high-degree solver problems. Some commenters note the contrast between DeepMind's focus on research problems and other AI labs' pursuit of enterprise/coding revenue, while others question whether Google employees prefer Gemini over Claude Code or Codex.
+**Discussion**: Commenters noted AlphaEvolve's similarity to Antirez's work on optimizing Redis, with mixed reactions about its practical applicability. Some questioned whether Google researchers prefer Gemini over other coding agents like Claude Code, while others highlighted that only a few companies (Google, Sakana AI, Autohand AI) are pursuing this space.
 
-**Tags**: `#AI`, `#DeepMind`, `#optimization`, `#coding agents`, `#research`
+**Tags**: `#AI`, `#DeepMind`, `#coding agents`, `#self-improvement`, `#research`
 
 ---
 
 <a id="item-8"></a>
 ## [DeepSeek 4 Flash Local Inference Engine for Metal](https://github.com/antirez/ds4) ⭐️ 8.0/10
 
-Antirez released ds4, a small, specialized native inference engine for DeepSeek V4 Flash that runs on Apple Silicon via the Metal API, achieving full-speed token generation with only 50W power draw on an M3 Max MacBook. This project demonstrates the value of hardware-specific optimization for open-source LLMs, potentially inspiring more focused inference engines that outperform general-purpose frameworks like llama.cpp on particular hardware. The engine is intentionally narrow: it is not a generic GGUF runner or framework, but a DeepSeek V4 Flash-specific Metal graph executor with custom loading. It supports only the DeepSeek V4 Flash model and runs on Apple Silicon via Metal.
+Antirez released ds4, a focused local inference engine for DeepSeek 4 Flash on Apple Silicon, optimized for Metal. The project is open source on GitHub and has garnered significant community attention with 325 points and 95 comments. This project demonstrates the value of hardware-specific inference optimization, potentially improving performance and energy efficiency for running large language models locally on Apple devices. It also serves as an educational resource for developers interested in understanding inference internals. The engine is specifically designed for DeepSeek 4 Flash, a 284B parameter Mixture-of-Experts model with 13B activated parameters. Antirez noted that on his MacBook M3 Max, token generation at full speed peaks at only 50W energy usage.
 
 hackernews · tamnd · May 7, 15:40 · [Discussion](https://news.ycombinator.com/item?id=48050751)
 
-**Background**: DeepSeek V4 Flash is a Mixture-of-Experts model with 284B total parameters and 13B activated, supporting a 1M-token context window. Metal is Apple's low-level GPU API for high-performance compute on Apple Silicon. General inference frameworks like llama.cpp support many models but may not be optimally tuned for specific hardware-model combinations.
+**Background**: DeepSeek 4 Flash is a Mixture-of-Experts (MoE) language model with 284B total parameters and 13B activated parameters per token. Metal is Apple's GPU acceleration framework for macOS and iOS, enabling efficient use of Apple Silicon's unified memory architecture for local inference.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/antirez/ds4">GitHub - antirez/ds4: DeepSeek 4 Flash local inference engine for...</a></li>
-<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash">deepseek -ai/ DeepSeek -V 4 - Flash · Hugging Face</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Metal_(API)">Metal (API) - Wikipedia</a></li>
+<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro">deepseek-ai/DeepSeek-V4-Pro · Hugging Face</a></li>
+<li><a href="https://api-docs.deepseek.com/news/news260424">DeepSeek V4 Preview Release | DeepSeek API Docs</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters praised the focused approach and noted similar projects for other models (e.g., Qwen3). Some raised concerns about slow prompt processing (4 minutes for large inputs), but caching was suggested as a mitigation. The low power draw (50W) was highlighted as impressive.
+**Discussion**: The community praised the project for its focused optimization and educational simplicity. Some users shared similar projects, while others highlighted the potential for hardware-specific inference to bridge the gap with frontier models. Antirez also shared a power efficiency data point.
 
-**Tags**: `#inference`, `#Apple Silicon`, `#Metal`, `#DeepSeek`, `#open source`
+**Tags**: `#local inference`, `#Metal`, `#DeepSeek`, `#Apple Silicon`, `#open source`
 
 ---
 
 <a id="item-9"></a>
 ## [AI Slop Eroding Trust in Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/) ⭐️ 8.0/10
 
-AI-generated content, often called 'slop,' is increasingly flooding online communities like Reddit, making it hard to distinguish human posts from bot posts, and driving users away. This erosion of trust threatens the very foundation of online communities, as authentic human interaction is replaced by automated content, potentially pushing users toward smaller, more curated spaces or offline interactions. Moderators report banning hundreds of AI accounts monthly, and some users have conducted experiments showing that AI-generated posts can engage humans without detection, highlighting the scale of the problem.
+A personal experiment showed that an AI agent could karma farm and covertly advertise on Reddit without detection, highlighting the growing problem of AI-generated content in online communities. This erodes trust in online interactions, burdens moderators with extra work, and may drive humans away from large social platforms toward smaller, more authentic communities. One community reported banning around 600 AI content creator accounts monthly, and a niche creative community outlawed AI-generated content in 2022 due to its corrosive effect.
 
 hackernews · thm · May 7, 18:46 · [Discussion](https://news.ycombinator.com/item?id=48053203)
 
-**Background**: Online communities like Reddit and Hacker News rely on user-generated content and trust. AI language models can now produce convincing text at scale, making it easy for bad actors to spam, manipulate discussions, or farm karma, undermining community health.
+**Background**: AI-generated content, often called 'AI slop', refers to text, images, or other media produced by large language models (LLMs) that can be indistinguishable from human-created content. This has led to concerns about authenticity and trust in online spaces where users seek genuine human interaction.
 
-**Discussion**: Commenters express frustration and fear, with some abandoning Reddit entirely. Moderators share the heavy burden of combating AI accounts, while a few see a silver lining, hoping it will drive people back to real-world interactions.
+**Discussion**: Commenters expressed fear of losing the battle against AI content, with some seeing a potential silver lining: AI-generated content might drive humans back to real-world interactions. Others advocated for a return to smaller, credibility-based communities.
 
-**Tags**: `#AI`, `#online communities`, `#content moderation`, `#trust`, `#bots`
+**Tags**: `#AI`, `#online communities`, `#content moderation`, `#LLMs`, `#social media`
 
 ---
 
 <a id="item-10"></a>
-## [Brazil's Pix faces pressure from Visa and Mastercard](https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/) ⭐️ 8.0/10
+## [Amazon, Coinbase, Stripe Build Stablecoin Payment Rails for AI Agents](https://www.coindesk.com/business/2026/05/07/amazon-rolls-out-ai-agent-stablecoin-payments-platform-with-coinbase-and-stripe) ⭐️ 8.0/10
 
-Brazil's central bank-led instant payment system Pix is facing pushback from Visa and Mastercard, as the card networks criticize the central bank for both regulating and competing in the payments market. This conflict highlights the tension between government-run payment systems and private card networks, with Pix's success potentially challenging the fee-based model that generates billions for Visa and Mastercard globally. Pix operates 24/7 with no fees for individuals, while Visa and Mastercard charge merchants 1-3% per transaction. Mastercard Brazil's CEO has argued that the central bank should not both regulate and compete.
+Amazon Web Services (AWS) has partnered with Coinbase and Stripe to launch a stablecoin-based payment platform that enables AI agents to autonomously pay for APIs, data, and online services using USDC. This collaboration marks a major step toward an agentic economy where AI agents conduct transactions autonomously, potentially transforming how digital services are bought and sold. It also signals growing adoption of stablecoins as a programmable payment rail for machine-to-machine commerce. The platform leverages USDC, a dollar-pegged stablecoin issued by Circle, for low-cost and programmable payments. AWS provides the infrastructure, while Coinbase handles custody and conversion, and Stripe facilitates merchant onboarding and payout settlement.
 
-hackernews · wslh · May 7, 17:42 · [Discussion](https://news.ycombinator.com/item?id=48052371)
+rss · CoinDesk · May 7, 16:50
 
-**Background**: Pix is an instant payment system launched by Brazil's Central Bank in 2020, allowing free and immediate transfers between individuals. It quickly became Brazil's most popular payment method, disrupting the traditional card network duopoly. The system is often cited as a successful example of a central bank digital payment initiative.
+**Background**: A payment rail is the infrastructure that moves money from payer to payee, such as credit card networks or blockchain systems. Stablecoins like USDC are cryptocurrencies designed to maintain a stable value relative to a fiat currency, making them suitable for transactions. The agentic economy refers to a future where AI agents act on behalf of humans or businesses to autonomously negotiate and execute transactions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Pix_(payment_system)">Pix ( payment system ) - Wikipedia</a></li>
-<li><a href="https://www.pagbrasil.com/lp/content-pix/">Pix, Brazil's favorite payment method for e-commerce</a></li>
-<li><a href="https://www.bcb.gov.br/en/financialstability/pix_en">Banco Central do Brasil</a></li>
+<li><a href="https://en.wikipedia.org/wiki/USDC_(cryptocurrency)">USDC (cryptocurrency) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Payment_rail">Payment rail</a></li>
+<li><a href="https://arxiv.org/abs/2505.15799">[2505.15799] The Agentic Economy - arXiv.org</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters praised Pix for solving Brazil's previously difficult and costly bank transfers, with some noting merchants offer discounts for Pix payments to avoid card fees. Others questioned why the US cannot implement a similar system, while one commenter argued that governments are not competent enough to build such technology.
-
-**Tags**: `#fintech`, `#payments`, `#regulation`, `#Brazil`, `#central bank`
+**Tags**: `#AI`, `#Fintech`, `#Stablecoins`, `#AWS`, `#Autonomous Agents`
 
 ---
 
 <a id="item-11"></a>
-## [Chrome Removes Privacy Promise for On-Device AI](https://decrypt.co/367193/chrome-removes-privacy-claim-gemini-nano-google) ⭐️ 8.0/10
+## [Chrome Deleted Its Own Privacy Promise for Sneaky On-Device AI](https://decrypt.co/367193/chrome-removes-privacy-claim-gemini-nano-google) ⭐️ 8.0/10
 
-Google Chrome has silently installed a 4GB AI model (Gemini Nano) on devices and removed a privacy disclosure that promised local-only processing, raising concerns that user data may be sent to servers. This matters because Chrome is the most widely used browser, and the removal of a privacy promise undermines user trust, especially as on-device AI is often marketed as a privacy-preserving alternative to cloud AI. The AI model, Gemini Nano, is installed without explicit user consent, and the removal of the privacy disclosure suggests that Google may be collecting data from local AI processing. Users have limited options to disable this feature.
+Google Chrome has removed a privacy disclosure that promised user data would not be sent to its servers, while silently downloading a 4GB Gemini Nano AI model onto eligible devices without explicit user consent. This undermines user trust in Chrome's privacy practices and raises concerns about data handling, as the browser silently installs a large AI model that could consume bandwidth and storage, and may violate privacy regulations like EU law. The Gemini Nano model is re-downloaded if deleted, indicating a deliberate persistent installation design, and the AI Mode button users see does not even use this model.
 
 rss · Decrypt · May 7, 20:52
 
-**Background**: On-device AI processes data locally on the user's device, which is generally considered more private than sending data to cloud servers. Chrome's Gemini Nano was initially promoted as a local-only AI feature, but the removal of that promise raises questions about data handling. The silent installation of a large AI model also consumes storage and resources without user awareness.
+**Background**: On-device AI models like Gemini Nano allow AI tasks to run locally without sending data to the cloud, which can enhance privacy. However, Chrome's silent download and removal of privacy promises contradict the intended privacy benefits, as the model is installed without clear user consent and may waste resources.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://awesomeagents.ai/news/chrome-gemini-nano-silent-install/">Chrome Installs 4 GB Gemini Nano Without Asking | Awesome Agents</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/cyber-security/google-chrome-silently-downloads-4gb-ai-model-to-your-device-without-permission-report-claims-researcher-says-practice-may-violate-eu-law-waste-thousands-of-kilowatts-of-energy">Google Chrome 'silently' downloads 4GB AI model to your device without permission, report claims — researcher says practice may violate EU law, waste thousands of kilowatts of energy | Tom's Hardware</a></li>
+<li><a href="https://cybernews.com/security/google-chrome-ai-model-device-no-consent/">Guy finds Google Chrome is quietly installing a 4GB AI model on our devices</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#privacy`, `#Chrome`, `#AI`, `#Google`, `#browser`
+**Tags**: `#privacy`, `#Chrome`, `#AI`, `#Google`, `#data handling`
 
 ---
 
 <a id="item-12"></a>
-## [AI Chatbots Leak User Chats to Ad Trackers](https://decrypt.co/367164/your-ai-chatbot-leaking-chats-meta-tiktok-google) ⭐️ 8.0/10
+## [AI Chatbots Leak User Data to Ad Trackers](https://decrypt.co/367164/your-ai-chatbot-leaking-chats-meta-tiktok-google) ⭐️ 8.0/10
 
-A new study reveals that popular AI chatbots including ChatGPT, Claude, Grok, and Perplexity share user conversation data with third-party ad trackers from Meta, TikTok, and Google, sometimes even when users decline cookies. This privacy breach affects millions of users and undermines trust in AI chatbots, potentially leading to stricter regulations and forcing companies to redesign their data handling practices. The study found that Grok's guest chats are public by default, and data sharing includes conversation URLs and user data, enabling user profiling and targeted advertising.
+A new study reveals that popular AI chatbots including ChatGPT, Claude, Grok, and Perplexity share user data with third-party ad trackers, sometimes even when users decline cookies. This privacy breach affects millions of users who trust these chatbots with sensitive conversations, and it highlights systemic data leakage issues in AI services that could lead to regulatory scrutiny and loss of user trust. The data sharing occurs even after users opt out of cookies, indicating that consent mechanisms are ineffective. The trackers belong to major companies like Meta, TikTok, and Google.
 
 rss · Decrypt · May 7, 19:06
 
-**Background**: Third-party ad trackers are services used by advertisers to monitor user behavior across websites and apps. AI chatbots often embed such trackers for analytics or advertising purposes, but users expect their conversations to remain private. This study highlights a significant gap between user expectations and actual data practices.
+**Background**: Third-party ad trackers are software used by advertisers to monitor campaign performance and user behavior across websites. AI chatbots, built on large language models, process user inputs to generate responses, but may inadvertently transmit data to these trackers embedded in the chatbot interface or through SDKs. This study adds to growing evidence that AI systems are prone to data leakage, including personally identifiable information.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://decrypt.co/367164/your-ai-chatbot-leaking-chats-meta-tiktok-google">Your AI Chatbot May Be Leaking Your Chats to Meta, TikTok and ...</a></li>
-<li><a href="https://oecd.ai/en/incidents/2026-05-05-6f9b">Major AI Chatbots Leak User Conversations to Advertising ...</a></li>
-<li><a href="https://www.gncrypto.news/news/ai-chatbots-leak-chats-meta-tiktok-google-study/">Study: AI chatbots leak chats to Meta, TikTok and Google</a></li>
+<li><a href="https://www.riskinsight-wavestone.com/en/2025/05/leaking-minds-how-your-data-could-slip-through-ai-chatbots/">Leaking Minds: How Your Data Could Slip Through AI Chatbots - RiskInsight</a></li>
+<li><a href="https://www.malwarebytes.com/blog/news/2025/09/when-ai-chatbots-leak-and-how-it-happens">When AI chatbots leak and how it happens | Malwarebytes</a></li>
+<li><a href="https://neuraltrust.ai/blog/ai-model-data-leakage-prevention">Why Your AI Model Might Be Leaking Sensitive Data | NeuralTrust</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#privacy`, `#AI chatbots`, `#data sharing`, `#tracking`, `#security`
+**Tags**: `#privacy`, `#AI`, `#data leakage`, `#chatbots`, `#tracking`
 
 ---
 
 <a id="item-13"></a>
-## [Tether's Medical AI Runs on Phone, Beats Models 16x Larger](https://decrypt.co/367127/tether-medical-ai-runs-on-phone-outperforms-models-16x) ⭐️ 8.0/10
+## [Tether's Medical AI Runs on Phones, Beats Models 16x Larger](https://decrypt.co/367127/tether-medical-ai-runs-on-phone-outperforms-models-16x) ⭐️ 8.0/10
 
-Tether's QVAC MedPsy, a compact medical AI model, runs on smartphones and outperforms Google's MedGemma-27B on real-world scenarios while using three times fewer compute resources. This breakthrough demonstrates that small, efficient models can rival much larger ones, potentially democratizing medical AI by enabling deployment on edge devices like phones and wearables without cloud dependency. The text-only QVAC MedPsy-1.7B model achieves an average score of 62.62 across seven medical benchmarks, outperforming Google's MedGemma-1.5-4B-it (51.20) and matching Qwen3-4B-Thinking-2507 (63.10), a model 2.4x larger.
+Tether's AI Research Group launched QVAC MedPsy, a family of medical language models that run directly on smartphones and wearables, outperforming Google's MedGemma-27B on real-world scenarios while using three times fewer compute resources. This breakthrough enables powerful clinical AI to be deployed on edge devices without cloud dependency, drastically reducing costs and latency while preserving patient privacy. It challenges the assumption that larger models are always better, potentially reshaping medical AI deployment strategies. QVAC MedPsy is a text-only model family purpose-built for edge deployment, and it outperforms Google's MedGemma-27B, which is approximately 16 times larger in parameter count. The model achieves this efficiency through specialized architecture optimizations rather than brute-force scaling.
 
 rss · Decrypt · May 7, 16:01
 
-**Background**: Medical AI models are typically large and require powerful cloud servers, limiting accessibility in low-resource settings. Tether's QVAC MedPsy is designed for edge devices, leveraging parameter efficiency to achieve high performance with minimal compute. Google's MedGemma is a family of open medical models built on Gemma 3, available in sizes up to 27B parameters.
+**Background**: Large language models (LLMs) typically require powerful cloud servers to run, limiting their use in resource-constrained environments like smartphones. Medical AI models, in particular, face additional challenges around patient data privacy and latency. Tether, best known for its USDT stablecoin, has been expanding into AI infrastructure with its Tether AI cloud platform. QVAC MedPsy represents a shift toward efficient, on-device AI that can operate offline.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://huggingface.co/blog/qvac/medpsy">QVAC MedPsy: State-of-the-Art Medical and Healthcare Language Models for Edge Devices</a></li>
+<li><a href="https://tether.io/news/tether-unveils-medical-ai-that-runs-on-phones-outperforms-much-larger-sota-models-and-can-cut-the-cloud-out-entirely/">Tether Unveils Medical AI That Runs on Phones, Outperforms ...</a></li>
+<li><a href="https://huggingface.co/blog/qvac/medpsy">QVAC MedPsy : State-of-the-Art Medical and Healthcare Language...</a></li>
 <li><a href="https://developers.google.com/health-ai-developer-foundations/medgemma">MedGemma | Health AI Developer Foundations | Google for ...</a></li>
-<li><a href="https://github.com/tetherto/qvac">GitHub - tetherto/qvac: QVAC - Local AI SDK and libraries for building private, cross-platform, peer-to-peer AI applications. Run LLMs, speech-to-text, translation, and more locally on Linux, macOS, Windows, Android, and iOS. · GitHub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Medical AI`, `#Edge Computing`, `#Model Efficiency`, `#Healthcare`
+**Tags**: `#AI`, `#medical AI`, `#edge computing`, `#model efficiency`, `#Tether`
 
 ---
 
 <a id="item-14"></a>
 ## [Google Boosts Local AI Speed 3x Without New Hardware](https://decrypt.co/367095/google-make-local-ai-3x-faster-no-new-hardware) ⭐️ 8.0/10
 
-Google released Multi-Token Prediction (MTP) drafters for Gemma 4, a speculative decoding technique that accelerates local inference up to 3x without sacrificing output quality. This breakthrough enables faster AI inference on consumer hardware, enhancing privacy and reducing cloud dependency for edge computing applications. MTP drafters generate multiple likely next tokens for the main model to verify in parallel, rather than generating one token at a time. The technique works with Gemma 4 models and requires no hardware upgrades.
+Google has introduced Multi-Token Prediction (MTP) drafters that enable its Gemma 4 model to run up to 3x faster on local hardware with no loss in quality, eliminating the need for cloud dependency. This breakthrough significantly improves local AI inference performance without requiring hardware upgrades, potentially accelerating edge computing and privacy-preserving AI applications. The technique uses speculative decoding: a draft model predicts multiple tokens at once, which are then verified in a single forward pass by the target model, reducing latency while maintaining output quality.
 
 rss · Decrypt · May 7, 14:13
 
-**Background**: Large language models like Gemma 4 generate text token by token, which is inherently slow. Speculative decoding uses a smaller 'drafter' model to propose multiple tokens, which the main model then verifies in parallel, speeding up inference. Gemma 4 is Google's latest open-source LLM, released in April 2026.
+**Background**: Large language models like Gemma 4 typically generate tokens one by one, which is slow on local devices. Speculative decoding decouples token generation from verification, allowing faster inference. Google's MTP drafters apply this to Gemma 4, achieving up to 3x speedup without quality loss.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/">Multi-token-prediction in Gemma 4 - The Keyword</a></li>
-<li><a href="https://www.marktechpost.com/2026/05/06/google-ai-releases-multi-token-prediction-mtp-drafters-for-gemma-4-delivering-up-to-3x-faster-inference-without-quality-loss/">Google AI Releases Multi-Token Prediction (MTP) Drafters for ...</a></li>
-<li><a href="https://expertbeacon.com/what-do-multi-token-prediction-drafters-change-for-gemma-4-developers/">What Do Multi-Token Prediction Drafters Change For Gemma 4 ...</a></li>
+<li><a href="https://ai.google.dev/gemma/docs/mtp/overview">Speed-up Gemma 4 with Multi-Token Prediction | Google AI for Developers</a></li>
+<li><a href="https://news.ycombinator.com/item?id=48024540">Accelerating Gemma 4: faster inference with multi-token prediction drafters | Hacker News</a></li>
+<li><a href="https://deepmind.google/models/gemma/gemma-4/">Gemma 4 - Google DeepMind</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#machine learning`, `#Google`, `#edge computing`, `#performance optimization`
+**Tags**: `#AI`, `#Machine Learning`, `#Google`, `#Edge Computing`, `#Performance Optimization`
 
 ---
 
 <a id="item-15"></a>
-## [Aave Overhauls Collateral Rules After KelpDAO Exploit](https://www.coindesk.com/business/2026/05/07/aave-to-overhaul-collateral-and-listing-standards-after-kelpdao-exploit) ⭐️ 7.0/10
+## [Brazil's Pix faces pressure from Visa and Mastercard](https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/) ⭐️ 7.0/10
 
-Aave Labs announced a comprehensive overhaul of its collateral and listing standards following the $292 million KelpDAO exploit in April 2026. The new framework adds cybersecurity, interoperability, and systemic-risk checks, along with a playbook for token issuers. This update sets a new precedent for DeFi lending protocols, directly addressing vulnerabilities exposed by cross-chain bridge exploits. It enhances Aave's risk management and could influence how other protocols evaluate collateral assets. The exploit targeted KelpDAO's rsETH token via a forged cross-chain message on LayerZero, forcing Aave to freeze rsETH markets and conduct emergency liquidations. The new standards include mandatory audits, bridge security assessments, and ongoing monitoring requirements.
+Brazil's central bank-run instant payment system Pix is facing pushback from Visa and Mastercard, who argue that the central bank should not both regulate and compete in the payment market. This conflict highlights the growing tension between public digital payment infrastructure and private card networks, with implications for the future of central bank digital currencies and payment system regulation globally. Pix, launched in 2020, is free for individuals and processes transactions instantly, drastically reducing costs and transfer times compared to traditional methods. Visa and Mastercard claim the central bank's dual role as regulator and competitor creates an uneven playing field.
 
-rss · CoinDesk · May 7, 14:27
+hackernews · wslh · May 7, 17:42 · [Discussion](https://news.ycombinator.com/item?id=48052371)
 
-**Background**: Aave is a leading DeFi lending protocol where users deposit assets as collateral to borrow others. The KelpDAO exploit, attributed to North Korea's Lazarus Group, drained $292 million by exploiting a bridge vulnerability, highlighting the risks of cross-chain interoperability in DeFi.
+**Background**: Pix is Brazil's instant payment system created by the Central Bank of Brazil, enabling free, real-time transfers between bank accounts via mobile apps. Before Pix, bank transfers in Brazil were slow, expensive, and cumbersome. The system has been widely adopted, with over 70% of the adult population using it, reducing reliance on cash and card networks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.chainalysis.com/blog/kelpdao-bridge-exploit-april-2026/">Inside the KelpDAO Bridge Exploit</a></li>
-<li><a href="https://www.techtarget.com/searchcio/feature/The-KelpDAO-crypto-hack-What-IT-execs-must-know">The KelpDAO $292M crypto hack: What IT execs must know | TechTarget</a></li>
-<li><a href="https://miningnews.live/en/article/aave-overhauls-collateral-standards-after-kelpdao-exploit-2026">Aave overhauls collateral standards after Ke... - Mining News</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Pix_(payment_system)">Pix (payment system) - Wikipedia</a></li>
+<li><a href="https://stripe.com/resources/more/pix-replacing-cards-cash-brazil">A guide to Pix payments in Brazil | Stripe</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters largely support Pix, praising its efficiency and low cost compared to previous banking methods. Some criticize Visa and Mastercard's position as self-serving, while others note that government-run systems may lack the innovation of private networks. A few commenters express envy that their own countries lack a similar system.
+
+**Tags**: `#fintech`, `#payments`, `#regulation`, `#Brazil`, `#central bank digital currency`
+
+---
+
+<a id="item-16"></a>
+## [Aave Overhauls Collateral and Listing Standards After KelpDAO Exploit](https://www.coindesk.com/business/2026/05/07/aave-to-overhaul-collateral-and-listing-standards-after-kelpdao-exploit) ⭐️ 7.0/10
+
+Aave announced a comprehensive overhaul of its collateral and asset listing policies following the $292 million KelpDAO exploit in April 2026. The new framework will evaluate assets based on cybersecurity, interoperability, and technical architecture, not just price volatility. This move sets a new industry standard for DeFi risk management, potentially preventing future exploits that exploit cross-chain vulnerabilities. It directly impacts how lending protocols assess and list collateral assets, increasing security for users and protocols alike. Aave will publish a minimum-standards playbook for issuers seeking to list on the protocol. The KelpDAO exploit drained 116,500 rsETH (18% of circulating supply) and stranded wrapped ether across 20 chains, forcing emergency liquidations on Aave.
+
+rss · CoinDesk · May 7, 14:27
+
+**Background**: Aave is a leading DeFi lending protocol that allows users to lend and borrow cryptocurrencies. The KelpDAO exploit in April 2026 was the largest crypto hack of the year, exploiting a vulnerability in LayerZero's OFT standard to drain $292 million from the rsETH token bridge.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.coindesk.com/business/2026/05/07/aave-to-overhaul-collateral-and-listing-standards-after-kelpdao-exploit">Aave rewrites the rulebook for asset listings after $293 million exploit</a></li>
+<li><a href="https://www.msn.com/en-us/news/other/kelpdao-moves-to-chainlink-after-292m-layerzero-exploit/gm-GM4F772E05">KelpDAO moves to Chainlink after $292M LayerZero exploit - MSN</a></li>
+<li><a href="https://www.chainalysis.com/blog/kelpdao-bridge-exploit-april-2026/">Inside the KelpDAO Bridge Exploit - chainalysis.com</a></li>
 
 </ul>
 </details>
@@ -375,303 +394,295 @@ rss · CoinDesk · May 7, 14:27
 
 ---
 
-<a id="item-16"></a>
-## [IMF Warns AI Will Supercharge Cyberattacks on Global Financial System](https://decrypt.co/367178/imf-warns-ai-supercharge-cyberattacks-global-financial-system) ⭐️ 7.0/10
+<a id="item-17"></a>
+## [IMF Warns AI Will Supercharge Cyberattacks on Financial System](https://decrypt.co/367178/imf-warns-ai-supercharge-cyberattacks-global-financial-system) ⭐️ 7.0/10
 
-The International Monetary Fund (IMF) warned on May 7, 2026, that AI tools are enabling even unskilled attackers to launch sophisticated cyberattacks on the global financial system, and urged treating cybersecurity as a core financial stability issue. This matters because AI-powered cyberattacks could turn localized breaches into systemic crises, threatening the stability of the entire global financial system. Policymakers and financial institutions must now prioritize resilience standards and international coordination to contain these threats. The IMF analysis suggests that extreme cyber events could become more frequent and severe as AI amplifies offensive capabilities that outpace defenses. The organization calls for expanding existing measures and sharpening them for a world of faster, automated, and increasingly sophisticated attacks.
+The International Monetary Fund (IMF) has warned that AI tools are enabling even unskilled attackers to launch sophisticated cyberattacks on the global financial system, urging that cybersecurity be treated as a core stability issue. This matters because the financial sector is a critical infrastructure whose disruption could trigger systemic crises, and AI-powered attacks lower the barrier for malicious actors, increasing the frequency and severity of threats. The IMF's warning comes as reports indicate that over 80% of financial services firms faced AI-powered cyberattacks in 2025, and nation-state actors are using AI to infiltrate power grids and financial institutions with unprecedented speed.
 
 rss · Decrypt · May 7, 19:44
 
-**Background**: The global financial system relies heavily on interconnected digital infrastructure, making it a prime target for cyberattacks. AI tools like generative models can automate phishing, create deepfakes, and identify vulnerabilities at scale, lowering the barrier for entry for malicious actors. The IMF has previously flagged cyber risk as a financial stability concern, but this new warning emphasizes the accelerating threat from AI.
+**Background**: The financial sector has long been a prime target for cyberattacks due to the vast amounts of sensitive data and money it handles. AI technologies, such as machine learning and automation, now allow attackers to craft more convincing phishing emails, evade detection, and scale operations rapidly. The IMF's call to treat cybersecurity as a stability issue reflects a growing recognition that cyber risks can directly threaten global financial stability.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.imf.org/en/blogs/articles/2026/05/07/financial-stability-risks-mount-as-artificial-intelligence-fuels-cyberattacks">Financial Stability Risks Mount as Artificial Intelligence Fuels Cyberattacks</a></li>
-<li><a href="https://finance.yahoo.com/sectors/technology/articles/imf-warns-ai-supercharge-cyberattacks-194422394.html?fr=sycsrp_catchall">IMF Warns AI Will Supercharge Cyberattacks on Global ...</a></li>
-<li><a href="https://techxplore.com/news/2026-05-imf-inevitable-ai-powered-threats.html">IMF warns of 'inevitable' AI-powered threats to global ...</a></li>
+<li><a href="https://www.weforum.org/stories/2024/05/financial-sector-cyber-attack-threat-imf-cybersecurity/">Cyberattacks threaten global financial stability, IMF warns</a></li>
+<li><a href="https://quantum-cyber-ai.com/ai-powered-cyberattacks-infrastructure/">AI - Powered Cyberattacks on Critical... - Quantum Cyber AI</a></li>
+<li><a href="https://www.linkedin.com/posts/coffee-cup-solutions_ai-powered-cyber-attacks-why-smbs-are-now-activity-7370744149123428352-F6Db">How AI - powered cyber attacks target SMBs and how to... | LinkedIn</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#cybersecurity`, `#finance`, `#IMF`
-
----
-
-<a id="item-17"></a>
-## [Amazon Teams With Coinbase and Stripe to Let AI Agents Pay With Stablecoins](https://decrypt.co/367125/amazon-coinbase-stripe-ai-agents-pay-stablecoins) ⭐️ 7.0/10
-
-Amazon Web Services (AWS) has partnered with Coinbase and Stripe to enable AI agents to pay for APIs, data, and online services using the USDC stablecoin. This integration marks a practical step toward an autonomous agent economy, where AI agents can transact independently using programmable, low-cost stablecoins, potentially transforming how digital services are consumed and paid for. The system leverages USDC, a stablecoin pegged to the US dollar, as the payment rail, and involves major platforms like Coinbase for crypto infrastructure and Stripe for payment processing.
-
-rss · Decrypt · May 7, 16:32
-
-**Background**: Stablecoins like USDC are cryptocurrencies designed to maintain a stable value relative to a fiat currency, such as the US dollar. The agentic economy refers to an emerging ecosystem where AI agents act autonomously on behalf of users or businesses, requiring efficient payment rails for machine-to-machine transactions.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/USDC_(cryptocurrency)">USDC (cryptocurrency) - Wikipedia</a></li>
-<li><a href="https://arxiv.org/abs/2505.15799">[2505.15799] The Agentic Economy - arXiv.org</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Payment_rail">Payment rail</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI agents`, `#stablecoins`, `#Amazon Web Services`, `#fintech`, `#blockchain`
+**Tags**: `#AI`, `#cybersecurity`, `#finance`, `#IMF`, `#critical infrastructure`
 
 ---
 
 <a id="item-18"></a>
 ## [TrustedVolumes DeFi Exploit Drains $6.7M](https://decrypt.co/367070/defi-platform-trustedvolumes-hit-by-6-7m-exploit) ⭐️ 7.0/10
 
-TrustedVolumes, a liquidity resolver used by multiple DeFi protocols, was exploited on Ethereum, losing approximately $6.7 million. The exploit was first flagged by security firm Blockaid. This incident highlights ongoing security risks in DeFi, particularly for third-party infrastructure components like liquidity resolvers. The fact that 1inch, a major DEX aggregator, was not affected shows that the damage was contained, but it still raises concerns about the security of interconnected DeFi systems. The stolen funds are reportedly held across three Ethereum addresses. TrustedVolumes has launched bounty talks with the exploiter to recover the funds.
+DeFi platform TrustedVolumes suffered a $6.7 million exploit targeting its liquidity resolver, which is used by multiple protocols. DEX aggregator 1inch confirmed that its own systems were not affected. This incident highlights ongoing security vulnerabilities in DeFi infrastructure, particularly liquidity resolvers that serve as critical middleware. It adds to a string of major exploits in May 2026, underscoring the need for improved security measures across the ecosystem. The exploit is at least the fifth major DeFi hack since May 2026, following an April that saw 28 separate incidents totaling $635.2 million. The attacker drained approximately $5.9 million to $6.7 million from TrustedVolumes' resolver infrastructure linked to 1inch.
 
 rss · Decrypt · May 7, 11:25
 
-**Background**: In DeFi, liquidity resolvers help match orders across different protocols, enabling efficient trading. TrustedVolumes acted as a resolver for 1inch Fusion and other platforms. The exploit was caused by weak contract controls, according to reports.
+**Background**: TrustedVolumes is a liquidity resolver that helps DeFi protocols execute trades efficiently by splitting orders across multiple decentralized exchanges. DEX aggregators like 1inch use such resolvers to find optimal trade routes for users. The exploit targeted this middleware layer, not the aggregator itself.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://thedefiant.io/news/defi/1inch-resolver-trustedvolumes-drained-for-usd6-7m-on-ethereum">1inch Resolver TrustedVolumes Drained for $6.7M on Ethereum - "The Defiant"</a></li>
-<li><a href="https://www.cryptonewsz.com/trustedvolumes-exploit-launches-bounty-talks/">TrustedVolumes Loses $6.7M in Exploit, Launches Bounty Talks</a></li>
+<li><a href="https://thedefiant.io/news/defi/1inch-resolver-trustedvolumes-drained-for-usd6-7m-on-ethereum">1inch Resolver TrustedVolumes Drained for $6.7M on Ethereum</a></li>
 <li><a href="https://decrypt.co/367070/defi-platform-trustedvolumes-hit-by-6-7m-exploit">DeFi Platform TrustedVolumes Hit by $6.7M Exploit - Decrypt</a></li>
+<li><a href="https://www.cryptotimes.io/2026/05/07/trustedvolumes-exploit-drains-5-9m-through-1inch-liquidity-system/">TrustedVolumes Exploit Drains $5.9M Through 1inch Liquidity ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#DeFi`, `#security`, `#exploit`, `#blockchain`
+**Tags**: `#DeFi`, `#security`, `#exploit`, `#cryptocurrency`
 
 ---
 
 <a id="item-19"></a>
-## [Chrome Quietly Installs 4GB AI Model, Re-downloads if Deleted](https://decrypt.co/367060/chrome-quietly-installing-4gb-ai-model-computer) ⭐️ 7.0/10
+## [AI Framework Reads Plain Chemistry Instructions to Find Optimal Synthesis Routes](https://decrypt.co/367048/ai-chemistry-instructions-build-molecule) ⭐️ 7.0/10
 
-Google Chrome is silently downloading a 4GB Gemini Nano AI model to eligible devices without explicit user consent, and it re-downloads the model if users delete it. This raises serious privacy and user autonomy concerns, as it demonstrates Google's aggressive AI integration tactics that bypass user control and consume significant storage space. The AI Mode button that users see in Chrome does not even use this downloaded Gemini Nano model, making the forced download seem unnecessary. The model is only used for on-device AI features like smart compose or summarization.
+Researchers at EPFL have developed Synthegy, an AI framework that uses large language models to interpret plain-language chemistry instructions and identify the best synthesis routes for target molecules. This breakthrough could significantly accelerate drug discovery and materials science by allowing chemists to describe desired molecules in everyday language, reducing the time and expertise needed for synthesis planning. The framework, described in a paper published in Matter, leverages large language models as reasoning engines to sift through thousands of possible synthesis routes. It is designed to be accessible to chemists without requiring expertise in AI or programming.
 
-rss · Decrypt · May 6, 22:01
+rss · Decrypt · May 6, 21:31
 
-**Background**: Gemini Nano is Google's smallest AI model designed to run on-device for tasks like text generation and summarization. Google has been integrating AI into Chrome through features like AI Mode, which provides advanced search capabilities. However, the silent download and re-download behavior has sparked criticism over lack of transparency and user consent.
+**Background**: Synthesis planning is a critical step in chemistry where researchers determine the sequence of reactions to build a target molecule. Traditional methods rely on expert knowledge and manual search, which can be time-consuming. AI-based retrosynthesis tools have emerged, but most require structured input; Synthegy aims to bridge the gap by accepting natural language.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Gemini_(language_model)">Gemini (language model ) - Wikipedia</a></li>
-<li><a href="https://support.google.com/chrome/answer/16704170?hl=en&co=GENIE.Platform=Desktop">Use AI Mode in Chrome - Computer - Google Chrome Help</a></li>
+<li><a href="https://daddycow.com/livenewss/news/4158607/This-AI-Reads-Your-Chemistry-Instructions-and-Finds-the-Best-Way-to-Build-You-a-Molecule">This AI Reads Your Chemistry Instructions and Finds... | daddycow.com</a></li>
+<li><a href="https://www.chemical.ai/chemairs">ChemAIRS® – AI-Powered Retrosynthesis & Synthetic Pathway Discovery | Chemical.AI</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion is not provided, but based on the news, users are likely expressing frustration over the lack of control and the large storage footprint, with some questioning Google's motives.
-
-**Tags**: `#privacy`, `#Google Chrome`, `#AI`, `#user autonomy`
+**Tags**: `#AI`, `#chemistry`, `#synthesis`, `#NLP`, `#research`
 
 ---
 
 <a id="item-20"></a>
-## [AI Reads Plain-Language Chemistry Instructions to Design Molecules](https://decrypt.co/367048/ai-chemistry-instructions-build-molecule) ⭐️ 7.0/10
+## [Quantum Threat to Bitcoin and Ethereum Could Hit by 2030](https://decrypt.co/367047/bitcoin-ethereum-q-day-quantum-threat-could-arrive-2030) ⭐️ 7.0/10
 
-Researchers at EPFL have developed an AI framework that interprets plain-language chemistry instructions and automatically identifies the optimal molecular synthesis route from thousands of possibilities. This breakthrough bridges the gap between natural language and complex chemical synthesis planning, potentially accelerating drug discovery and materials science by making AI-driven retrosynthesis accessible to chemists without deep computational expertise. The framework leverages large language models to parse plain-language descriptions and then searches through a database of known reactions to propose feasible synthesis routes. It is designed to handle ambiguous or incomplete instructions, a common challenge in real-world chemistry.
-
-rss · Decrypt · May 6, 21:31
-
-**Background**: Retrosynthesis is the process of breaking down a target molecule into simpler precursor molecules, a fundamental task in organic chemistry. Traditionally, chemists rely on experience and databases to plan syntheses, but AI models like NVIDIA's ReaSyn and ChemAIRS have begun automating this process. The EPFL work adds a natural language interface, making these tools more intuitive.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://decrypt.co/367048/ai-chemistry-instructions-build-molecule">This AI Reads Your Chemistry Instructions and Finds the Best Way to Build You a Molecule - Decrypt</a></li>
-<li><a href="https://developer.nvidia.com/blog/reasoning-through-molecular-synthetic-pathways-with-generative-ai/">Reasoning Through Molecular Synthetic Pathways with Generative AI</a></li>
-<li><a href="https://www.chemical.ai/chemairs">ChemAIRS® – AI-Powered Retrosynthesis & Synthetic Pathway ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#chemistry`, `#synthesis`, `#natural language processing`, `#EPFL`
-
----
-
-<a id="item-21"></a>
-## [Quantum Threat to Bitcoin, Ethereum Could Hit by 2030](https://decrypt.co/367047/bitcoin-ethereum-q-day-quantum-threat-could-arrive-2030) ⭐️ 7.0/10
-
-A report from Project Eleven warns that quantum computers could break Bitcoin and Ethereum's cryptography by 2030, potentially before the networks can implement defenses. If quantum computers reach this capability, they could derive private keys from public keys, allowing attackers to steal funds from wallets, threatening the security of billions in cryptocurrency. The report highlights that Bitcoin and Ethereum may not be ready in time, as upgrades to quantum-resistant cryptography require community consensus and years of testing.
+A new analysis warns that Bitcoin and Ethereum could face a quantum computing threat as early as 2030, potentially before networks can implement defenses. This timeline is significant because it suggests that current cryptographic protections may become obsolete sooner than expected, impacting the security of billions in cryptocurrency assets. The report, referenced by Decrypt, highlights that quantum computers could break the elliptic curve cryptography used by Bitcoin and Ethereum, and that network upgrades to resist quantum attacks may not be ready in time.
 
 rss · Decrypt · May 6, 21:07
 
-**Background**: Quantum computers use qubits to solve certain problems exponentially faster than classical computers. Shor's algorithm, when run on a sufficiently powerful quantum computer, can break the elliptic curve cryptography (ECDSA) used by Bitcoin and Ethereum to secure transactions.
+**Background**: Quantum computers leverage qubits to perform calculations exponentially faster than classical computers for certain problems. 'Q-Day' refers to the point when quantum computers become powerful enough to break widely used public-key cryptography, such as RSA and ECDSA, which underpin blockchain security.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.forbes.com/sites/digital-assets/2026/03/31/google-finds-quantum-computers-could-break-bitcoin-sooner-than-expected/">Google Finds Quantum Computers Could Break Bitcoin Sooner ...</a></li>
 <li><a href="https://www.btcpolicy.org/articles/state-of-play-quantum-computing-and-bitcoins-path-forward">State of Play: Quantum Computing and Bitcoin's Path Forward</a></li>
-<li><a href="https://thequantuminsider.com/2026/03/31/q-day-just-got-closer-three-papers-in-three-months-are-rewriting-the-quantum-threat-timeline/">Q-Day Just Got Closer: Three Papers in Three Months Are ...</a></li>
+<li><a href="https://www.gate.com/learn/articles/what-is-q-day-quantum-computing-fundamentals-cryptographic-implications-and-cryptocurrency-risk-transmission">What Is Q - Day : Quantum Computing Threat to... | Gate Learn</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#quantum computing`, `#blockchain`, `#cryptography`, `#Bitcoin`, `#Ethereum`
+**Tags**: `#quantum computing`, `#cryptocurrency`, `#Bitcoin`, `#Ethereum`, `#security`
+
+---
+
+<a id="item-21"></a>
+## [Ondo, JPMorgan, Mastercard, Ripple Settle Tokenized Treasuries on XRP Ledger](https://decrypt.co/367033/ondo-jpmorgan-mastercard-ripple-settle-tokenized-treasuries-xrp-ledger) ⭐️ 7.0/10
+
+Ondo Finance, JPMorgan's Kinexys, Mastercard, and Ripple have completed the first near real-time cross-border redemption of tokenized U.S. Treasuries using Ondo's OUSG product on the XRP Ledger, settling the asset leg in under 5 seconds. This demonstration shows that major financial institutions can leverage blockchain for instant cross-border settlement of tokenized real-world assets, potentially transforming traditional finance by reducing settlement times from days to seconds. The asset leg settled on XRPL in under 5 seconds, while Mastercard's Multi-Token Network routed the fiat payout to Kinexys, which delivered USD to Ripple's Singapore bank account.
+
+rss · Decrypt · May 6, 18:52
+
+**Background**: Tokenized treasuries are digital tokens on a blockchain that represent ownership of U.S. government debt securities like Treasury bills. The XRP Ledger is known for its fast settlement speed (3-5 seconds) and low fees, making it suitable for cross-border payments. Ondo Finance is a platform focused on tokenizing real-world assets, including its OUSG product representing tokenized U.S. Treasuries.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://ourcryptotalk.com/news/ondo-jpmorgan-mastercard-ripple-tokenized-treasury-settlement">Ondo, J.P. Morgan, Mastercard, Ripple Settle Tokenized Treasuries</a></li>
+<li><a href="https://beincrypto.com/ripple-jpmorgan-mastercard-tokenized-treasury-pilot/">Ripple, JPMorgan & Mastercard Pull Off First Tokenized ...</a></li>
+<li><a href="https://chain.link/article/what-are-tokenized-treasuries">What Are Tokenized Treasuries? | Chainlink</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#blockchain`, `#tokenization`, `#XRP`, `#finance`, `#settlement`
 
 ---
 
 <a id="item-22"></a>
-## [Ondo, JPMorgan, Mastercard, Ripple Team for Tokenized Treasuries on XRPL](https://decrypt.co/367033/ondo-jpmorgan-mastercard-ripple-settle-tokenized-treasuries-xrp-ledger) ⭐️ 7.0/10
+## [Google DeepMind Takes Stake in Eve Online Maker for AI Testing](https://decrypt.co/366991/google-deepmind-takes-stake-in-eve-online-maker-will-use-game-to-test-ai-behavior) ⭐️ 7.0/10
 
-Ondo Finance, JPMorgan, Mastercard, and Ripple have collaborated to demonstrate the settlement of tokenized U.S. Treasuries on the XRP Ledger (XRPL), completing cross-border transactions in seconds. This partnership marks a significant step toward real-world blockchain adoption in traditional finance, showcasing how tokenized assets can be settled rapidly across borders, potentially reducing costs and settlement times compared to legacy systems like SWIFT. The XRP Ledger typically settles transactions in 3–5 seconds with fees as low as $0.0002 to $0.001 per transaction, making it suitable for high-speed settlement of tokenized Treasuries, which are digital representations of U.S. government debt.
+Google DeepMind has taken a minority stake in CCP Games (now rebranded as Fenris Creations), the developer of Eve Online, to use the game's complex virtual environment as a testing ground for AI models. The partnership involves running controlled experiments on a specially designed offline version of the game. This marks a novel approach to AI research, leveraging a massively multiplayer online game's intricate economy and player interactions to study multi-agent systems and general-purpose AI behavior in a safe sandbox. The insights could advance real-world applications in areas like autonomous coordination and economic modeling. DeepMind will conduct experiments on its models in an offline version of Eve Online running on a local server, allowing controlled testing without affecting live players. The game's player-driven economy and emergent social dynamics provide a unique benchmark for evaluating AI decision-making and cooperation.
 
-rss · Decrypt · May 6, 18:52
+rss · Decrypt · May 6, 16:59
 
-**Background**: Tokenized Treasuries are digital tokens on a blockchain that represent a claim on U.S. government debt securities, such as Treasury bills or bonds. The XRP Ledger is a decentralized blockchain known for fast and low-cost transactions, often used for cross-border payments. This collaboration brings together major financial players to test blockchain-based settlement of real-world assets.
+**Background**: Eve Online is a space simulation MMO known for its complex, player-driven economy and large-scale player interactions, often studied by economists and sociologists. Multi-agent systems involve multiple AI agents interacting to solve problems that are difficult for a single agent, and game environments like Eve offer realistic, dynamic settings for testing such systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://app.rwa.xyz/treasuries">RWA.xyz | Tokenized U.S. Treasuries</a></li>
-<li><a href="https://www.okx.com/en-us/learn/tokenized-treasuries-revolution-finance">Tokenized Treasuries : Why They’re... | OKX United States</a></li>
-<li><a href="https://chain.link/article/what-are-tokenized-treasuries">What Are Tokenized Treasuries ? | Chainlink</a></li>
-<li><a href="https://www.mexc.com/news/1062299">How XRP Is Changing Cross-Border Payments | MEXC News</a></li>
-<li><a href="https://www.ccn.com/education/crypto/xrpl-rlusd-mastercard-gemini-webbank-ripple-settlement-pilot/">XRPL for Fiat Credit Card Payments...</a></li>
-<li><a href="https://learn.xrpl.org/glossary/settlement/">Glossary Term - Settlement - XRP Ledger | Learning Portal</a></li>
+<li><a href="https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/">Google DeepMind partners with EVE Online for AI model testing - Ars Technica</a></li>
+<li><a href="https://www.eveonline.com/news/view/a-new-era">A New Era | EVE Online</a></li>
+<li><a href="https://www.reddit.com/r/Agent_AI/comments/1t5jx7i/google_deepmind_partners_with_eve_online_for_ai/">Google DeepMind Partners with EVE Online for AI Research as CCP Games Rebrands to Fenris Creations : r/Agent_AI - Reddit</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#blockchain`, `#tokenization`, `#XRP Ledger`, `#finance`, `#settlement`
+**Discussion**: Reddit discussions show mixed reactions: some are excited about the potential for AI research, while others worry about the impact on the game's community or the possibility of AI being used to manipulate in-game markets. There is also curiosity about how DeepMind will handle the game's complexity.
+
+**Tags**: `#AI`, `#DeepMind`, `#Eve Online`, `#multi-agent systems`, `#game-based research`
 
 ---
 
 <a id="item-23"></a>
-## [Google DeepMind Invests in Eve Online Maker for AI Research](https://decrypt.co/366991/google-deepmind-takes-stake-in-eve-online-maker-will-use-game-to-test-ai-behavior) ⭐️ 7.0/10
+## [IREN stock surges as Nvidia backs AI expansion with warrants](https://www.theblock.co/post/400498/iren-stock-surges-as-nvidia-backs-ai-expansion-with-warrants-tied-to-30-million-shares?utm_source=rss&utm_medium=rss) ⭐️ 7.0/10
 
-Google DeepMind has taken a stake in CCP Games, the developer of Eve Online, and will use the game's complex virtual world to test and advance AI behavior. This partnership bridges gaming and AI research, leveraging Eve Online's intricate player-driven economy and social dynamics to train multi-agent reinforcement learning systems, potentially leading to more robust and generalizable AI. Eve Online, launched 23 years ago, features a persistent universe with thousands of players interacting through trade, combat, and politics, making it an ideal testbed for multi-agent systems. DeepMind's AI will learn from in-game data and interactions.
+Nvidia has taken warrants that could convert into a $2.1 billion stake in IREN, alongside a deal to deploy up to 5 gigawatts of AI infrastructure using Nvidia's DSX architecture. This signals a major commitment from Nvidia to expand AI infrastructure through strategic partnerships, potentially accelerating the deployment of large-scale AI factories and boosting IREN's market position. The warrants are tied to 30 million shares and have a five-year term. IREN's stock surged over 25% on the news.
 
-rss · Decrypt · May 6, 16:59
+rss · The Block · May 7, 21:11
 
-**Background**: Multi-agent reinforcement learning (MARL) trains AI agents to interact in complex environments, with notable successes like AlphaStar in StarCraft II and OpenAI Five in Dota 2. Eve Online's open-ended, player-driven economy and social structures offer a unique challenge for MARL research.
+**Background**: IREN is a data center operator focused on AI infrastructure. Nvidia's DSX architecture is a reference design for AI factories. Warrants give Nvidia the right to buy shares at a set price in the future.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.cnet.com/tech/services-and-software/google-deepmind-train-ai-models-eve-online/">Google DeepMind Will Train AI Models on the MMORPG Eve Online</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Multi-agent_reinforcement_learning">Multi-agent reinforcement learning - Wikipedia</a></li>
-<li><a href="https://arxiv.org/abs/2509.03682">[2509.03682] A Comprehensive Review of Multi-Agent Reinforcement Learning in Video Games</a></li>
+<li><a href="https://www.theblock.co/post/400498/iren-stock-surges-as-nvidia-backs-ai-expansion-with-warrants-tied-to-30-million-shares">IREN stock surges as Nvidia backs AI expansion with warrants ...</a></li>
+<li><a href="https://www.cnbc.com/2026/05/07/iren-stock-ai-infrastructure-nvidia.html">IREN inks AI infrastructure deal with Nvidia - CNBC</a></li>
+<li><a href="https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure">NVIDIA and IREN Announce Strategic Partnership to Accelerate ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Some players express mixed feelings about the game's increasing complexity and monetization, but the AI research aspect is generally viewed as a positive development that could bring new insights.
-
-**Tags**: `#AI`, `#DeepMind`, `#Eve Online`, `#reinforcement learning`, `#multi-agent systems`
+**Tags**: `#AI`, `#Nvidia`, `#investment`, `#infrastructure`, `#stock`
 
 ---
 
 <a id="item-24"></a>
-## [Nvidia backs IREN with warrants for 30M shares](https://www.theblock.co/post/400498/iren-stock-surges-as-nvidia-backs-ai-expansion-with-warrants-tied-to-30-million-shares?utm_source=rss&utm_medium=rss) ⭐️ 7.0/10
+## [Burning Man's Meticulous Cleanup Map](https://www.not-ship.com/burning-man-moop/) ⭐️ 6.0/10
 
-Nvidia has taken warrants from IREN that may convert into a $2.1 billion stake, tied to up to 30 million shares at $70 each, causing IREN's stock to surge over 25% in after-hours trading. This strategic investment signals Nvidia's deepening commitment to AI infrastructure expansion, potentially boosting IREN's capacity to build data centers and solidifying Nvidia's role in the AI hardware ecosystem. The warrants expire in five years and allow Nvidia to buy up to 30 million shares at $70 per share. IREN's stock rose more than 25% in after-hours trading following the announcement.
+A detailed map and process for tracking and photographing debris at Burning Man ensures thorough cleanup, with community members logging and photographing every piece of trash down to individual clumps of toilet paper. This community-driven effort demonstrates that large-scale events can achieve near-zero environmental impact through rigorous data collection and volunteer coordination, setting a high standard for event cleanup worldwide. The cleanup covers 3,935 acres in 2025, with debris photographed on green screens for pixel counting to ensure the site is cleaner than before the event. The process mirrors the Bureau of Land Management's inspection methods.
 
-rss · The Block · May 7, 21:11
+hackernews · speckx · May 7, 14:06 · [Discussion](https://news.ycombinator.com/item?id=48049653)
 
-**Background**: IREN is a company focused on AI infrastructure and data centers. Warrants are financial instruments that give the holder the right to buy shares at a specified price within a certain timeframe. Nvidia's investment through warrants is a way to support IREN's expansion while potentially benefiting from future stock appreciation.
+**Background**: Burning Man is an annual event in Nevada's Black Rock Desert where attendees create a temporary city. The Bureau of Land Management requires the event to restore the land to its original condition, leading to this meticulous cleanup protocol.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.theblock.co/post/400498/iren-stock-surges-as-nvidia-backs-ai-expansion-with-warrants-tied-to-30-million-shares">IREN stock surges as Nvidia backs AI expansion with warrants tied to...</a></li>
-<li><a href="https://sherwood.news/markets/nvidia-to-invest-more-than-2-billion-in-iren-data-center-ai-boom/">Nvidia to invest up to $2.1 billion in IREN in... - Sherwood News</a></li>
+**Discussion**: Commenters praised the event's self-reliance and cleanup rigor, with one noting that Burning Man cleans up better than typical 4th of July celebrations. Another shared that difficult weather in 2024 made cleanup more challenging but the community persevered.
 
-</ul>
-</details>
-
-**Tags**: `#Nvidia`, `#AI infrastructure`, `#investment`, `#IREN`, `#stock market`
+**Tags**: `#Burning Man`, `#cleanup`, `#community`, `#data collection`, `#event management`
 
 ---
 
 <a id="item-25"></a>
-## [Map and Process for Burning Man Cleanup](https://www.not-ship.com/burning-man-moop/) ⭐️ 6.0/10
-
-A detailed map and process for tracking and cleaning up debris at Burning Man has been shared, showcasing meticulous environmental stewardship through photographing debris and pixel counting. This demonstrates a community-driven, data-intensive approach to environmental restoration that could serve as a model for other large events. The map covers 3,935 acres in 2025, and the cleanup team photographs every piece of debris, including toilet paper, and uses pixel counting on green screens to ensure they meet Bureau of Land Management standards.
-
-hackernews · speckx · May 7, 14:06 · [Discussion](https://news.ycombinator.com/item?id=48049653)
-
-**Background**: Burning Man is an annual event in the Nevada desert that emphasizes self-reliance and community. The Bureau of Land Management requires the event to restore the land to its original condition, leading to rigorous cleanup efforts.
-
-**Discussion**: Commenters expressed admiration for the cleanup effort, with one noting it's impressive how well the event cleans up compared to other gatherings like 4th of July in Tahoe. Another shared that last year's rain and wind made cleanup much harder.
-
-**Tags**: `#burning man`, `#cleanup`, `#community`, `#environment`, `#data`
-
----
-
-<a id="item-26"></a>
 ## [20 Banks and Tech Giants Queue to Issue Stablecoins via Anchorage](https://www.coindesk.com/business/2026/05/07/anchorage-says-it-has-a-pipeline-of-up-to-20-big-firms-looking-to-issue-stablecoins) ⭐️ 6.0/10
 
-Anchorage Digital, a regulated crypto bank, announced it has a pipeline of up to 20 major banks and technology firms looking to issue stablecoins through its platform. This signals a significant shift as traditional financial institutions and tech giants move toward issuing their own stablecoins, potentially accelerating mainstream adoption and regulatory clarity in the stablecoin market. Anchorage Digital is the only federally chartered crypto bank in the US, providing custody and infrastructure services. The pipeline includes both banks and tech firms, though specific names were not disclosed.
+Anchorage Digital reports a pipeline of up to 20 major banks and technology firms planning to issue stablecoins on its platform, signaling a surge in institutional interest. This indicates that traditional financial institutions are increasingly embracing digital assets, which could accelerate mainstream adoption of stablecoins and reshape payment systems. Anchorage Digital is a regulated digital asset platform that provides custody and infrastructure services; the pipeline includes both banks and tech giants, though specific names were not disclosed.
 
 rss · CoinDesk · May 7, 16:36
 
-**Background**: Stablecoins are cryptocurrencies pegged to a stable asset like the US dollar, used for trading and payments. Issuance involves minting tokens backed by reserves, and is increasingly regulated. Anchorage Digital's regulated status makes it a key partner for institutions entering the space.
+**Background**: Stablecoins are cryptocurrencies designed to maintain a stable value, often pegged to fiat currencies like the US dollar. They are used for trading, payments, and as a bridge between traditional finance and crypto. Anchorage Digital is a leading regulated custodian for digital assets, helping institutions securely hold and transact cryptocurrencies.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Anchorage_Digital">Anchorage Digital</a></li>
-<li><a href="https://www.anchorage.com/">Crypto Bank for Institutions | Anchorage Digital</a></li>
-<li><a href="https://stripe.com/resources/more/stablecoin-issuance">How Stablecoin Issuance Works: Risks, Reserves, and ... - Stripe</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#stablecoins`, `#cryptocurrency`, `#banking`, `#fintech`
+**Tags**: `#stablecoins`, `#cryptocurrency`, `#finance`, `#blockchain`
+
+---
+
+<a id="item-26"></a>
+## [Solv Protocol Moves $700M in Tokenized Bitcoin from LayerZero to Chainlink](https://www.coindesk.com/business/2026/05/07/solv-drops-layerzero-for-chainlink-ccip-in-usd700-million-tokenized-bitcoin-migration) ⭐️ 6.0/10
+
+Solv Protocol is migrating over $700 million in tokenized Bitcoin from LayerZero to Chainlink CCIP, citing security concerns following the recent $292 million exploit of LayerZero-powered Kelp DAO. This migration signals a major shift in the cross-chain interoperability landscape, as a large DeFi protocol prioritizes security over other factors, potentially influencing other projects to reconsider their bridging infrastructure. The migration involves Solv's tokenized Bitcoin assets, which are used for liquid staking and yield generation across multiple blockchains. Chainlink CCIP will become Solv's official cross-chain infrastructure.
+
+rss · CoinDesk · May 7, 14:59
+
+**Background**: Solv Protocol is a DeFi platform that acts as an on-chain Bitcoin reserve layer, enabling liquid staking and yield generation. Cross-chain interoperability protocols like LayerZero and Chainlink CCIP allow different blockchains to communicate and transfer assets. The recent Kelp DAO exploit, which drained ~$292 million via a LayerZero bridge, highlighted security risks in cross-chain infrastructure.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.chainalysis.com/blog/kelpdao-bridge-exploit-april-2026/">Inside the KelpDAO Bridge Exploit: How ~$292 Million in rsETH Was Released Against a Non-Existent Burn - Chainalysis</a></li>
+<li><a href="https://docs.chain.link/ccip">Chainlink CCIP - Cross-Chain Interoperability Protocol</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#blockchain`, `#DeFi`, `#interoperability`, `#Chainlink`, `#LayerZero`
 
 ---
 
 <a id="item-27"></a>
-## [Solv Protocol Moves $700M Bitcoin from LayerZero to Chainlink](https://www.coindesk.com/business/2026/05/07/solv-drops-layerzero-for-chainlink-ccip-in-usd700-million-tokenized-bitcoin-migration) ⭐️ 6.0/10
+## [Kalshi Raises $1B at $22B Valuation Amid Prediction Market Boom](https://www.coindesk.com/business/2026/05/07/kalshi-confirms-usd1-billion-raise-at-usd22-billion-valuation-amid-prediction-market-boom) ⭐️ 6.0/10
 
-Solv Protocol is migrating $700 million in tokenized Bitcoin from LayerZero to Chainlink CCIP, citing security concerns following the recent $292 million exploit of LayerZero-powered Kelp DAO. This migration signals a major vote of confidence in Chainlink's cross-chain infrastructure and raises questions about LayerZero's security model, potentially influencing other protocols' cross-chain choices. The migration involves $700 million in SolvBTC tokens, and Solv explicitly cited security as the core reason, referencing the Kelp DAO exploit that used a single-verifier configuration in LayerZero's OFT standard.
+Kalshi confirmed a $1 billion funding round at a $22 billion valuation, marking one of the largest raises in the prediction market sector. This massive raise signals strong investor confidence in prediction markets as a legitimate financial sector, potentially accelerating regulatory acceptance and mainstream adoption. Kalshi is a CFTC-regulated prediction market exchange, and over 90% of its activity is sports betting. The company has faced controversies over election betting and insider trading.
 
-rss · CoinDesk · May 7, 14:59
+rss · CoinDesk · May 7, 14:43
 
-**Background**: Solv Protocol is a DeFi platform that functions as an on-chain Bitcoin reserve layer, enabling liquid staking and yield generation. Chainlink CCIP is a cross-chain interoperability protocol secured by Chainlink's decentralized oracle networks, while LayerZero is another cross-chain messaging protocol that suffered a high-profile exploit via its OFT standard.
+**Background**: Prediction markets allow trading on the outcome of future events, with prices reflecting crowd-sourced probabilities. Kalshi is one of the few legally operating platforms in the U.S., regulated by the CFTC.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.coindesk.com/tech/2026/04/20/kelp-dao-claims-layerzero-s-default-settings-are-what-actually-caused-the-usd290-million-disaster">Kelp DAO hits back at LayerZero for trying to shift the blame after a massive exploit</a></li>
-<li><a href="https://www.theblock.co/post/400131/kelp-dao-ditches-layerzero-chainlink-cross-chain-infrastructure-292-million-exploit">Kelp DAO ditches LayerZero for Chainlink's cross-chain infrastructure following $292 million exploit | The Block</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kalshi">Kalshi</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Prediction_market">Prediction market</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#blockchain`, `#DeFi`, `#oracles`, `#tokenization`
+**Tags**: `#prediction markets`, `#fintech`, `#funding`, `#valuation`
 
 ---
 
 <a id="item-28"></a>
 ## [MEV Bot Front-Runs Vitalik Buterin's $4 Swap with $1M Volume](https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume) ⭐️ 6.0/10
 
-A bot named JaredfromSubway front-ran Vitalik Buterin's small token swap of digitalbits (XDB) for ether, using about $1.14 million in WETH to manipulate prices across SushiSwap and Uniswap. This incident highlights the persistent problem of MEV (Miner Extractable Value) in Ethereum, where bots can profit from front-running even small transactions, affecting user experience and fairness. The bot executed a sandwich attack, buying XDB before Buterin's transaction and selling after, profiting from the price movement. Buterin's original swap was only worth about $4.
+On April 30, the MEV bot 'JaredfromSubway' executed a sandwich attack on Ethereum co-founder Vitalik Buterin's swap of 26,544 XDB tokens (worth ~$3.86) for 0.00197 ETH (~$4.56), using $1.14 million in WETH to manipulate prices across SushiSwap and Uniswap V2 pools. This incident highlights the persistent problem of toxic MEV on Ethereum, where bots can extract value even from trivial transactions by high-profile individuals, undermining user trust and increasing costs for all traders. The bot spent $5.14 in gas fees and appears to have lost money on this particular sandwich, while Buterin's slippage was likely only a few cents; the attack involved front-running and back-running Buterin's transaction across two decentralized exchanges.
 
 rss · CoinDesk · May 7, 13:58
 
-**Background**: MEV (Miner Extractable Value) refers to the profit miners or validators can extract by reordering, including, or excluding transactions in a block. Front-running bots monitor the mempool for pending transactions and execute their own trades ahead of them to profit from price changes. Sandwich attacks are a common MEV strategy where a bot places a buy order before a target transaction and a sell order after, profiting from the price impact.
+**Background**: MEV (Miner/Maximal Extractable Value) refers to profits miners or validators can extract by reordering, including, or excluding transactions in a block. Front-running bots monitor the public mempool for pending trades and submit their own transactions with higher gas fees to be processed first, a common form of MEV extraction. Sandwich attacks involve buying an asset before a victim's trade and selling after to profit from the price movement.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume">Vitalik Buterin gets sandwiched by 'JaredfromSubway' as Ethereum MEV risks linger</a></li>
-<li><a href="https://www.coinbase.com/learn/advanced-trading/what-are-frontrunners-and-mev-when-it-comes-to-crypto-trading">What are frontrunners and MEV when it comes to crypto trading?</a></li>
-<li><a href="https://www.theblock.co/post/230218/jaredfromsubway-mev-bot">Jaredfromsubway.eth's MEV bot rakes in millions of dollars in three months | The Block</a></li>
+<li><a href="https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume">Vitalik Buterin gets sandwiched by 'JaredfromSubway' as Ethereum MEV risks linger - CoinDesk</a></li>
+<li><a href="https://cryptonews.net/news/security/32825777/">'JaredfromSubway' bot front runs Vitalik Buterin's $4 token ...</a></li>
+<li><a href="https://openliquid.io/learn/front-running/">Front - Running — What It Means in Crypto & DeFi | OpenLiquid</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#MEV`, `#cryptocurrency`, `#blockchain`, `#security`
+**Tags**: `#MEV`, `#crypto`, `#blockchain`, `#front-running`
 
 ---
 
 <a id="item-29"></a>
-## [Kraken Parent Buys Stablecoin Firm Reap for $600M](https://decrypt.co/367094/kraken-parent-acquires-asian-stablecoin-firm-reap-600-million) ⭐️ 6.0/10
+## [Bitwise acquires Superstate's $267M carry fund for tokenization push](https://www.coindesk.com/markets/2026/05/07/bitwise-expands-into-tokenized-funds-with-planned-takeover-of-superstate-s-uscc-fund) ⭐️ 6.0/10
 
-Payward Inc., the parent company of crypto exchange Kraken, has agreed to acquire Hong Kong-based stablecoin payments provider Reap Technologies for $600 million in a cash-and-stock deal. This marks Kraken's largest acquisition and its first infrastructure deal in Asia, signaling a major push into cross-border payments using stablecoin technology. The deal values Payward at $20 billion and is expected to close later this year, pending regulatory approvals.
+Bitwise has announced a planned takeover of Superstate's $267 million carry fund, marking its entry into tokenized funds. The move signals growing institutional interest in blockchain-based asset management. This acquisition accelerates the tokenization of traditional finance assets, potentially making fund management more efficient and accessible. It also validates the market for tokenized funds, encouraging further institutional adoption. The fund is a 'carry fund,' which typically refers to a fund that earns carried interest from investment profits. The deal is a takeover rather than a merger, indicating Bitwise's strategic expansion into tokenized asset management.
 
-rss · Decrypt · May 7, 13:48
+rss · CoinDesk · May 7, 13:00
 
-**Background**: Stablecoins are cryptocurrencies designed to maintain a stable value, often pegged to a fiat currency like the US dollar. Reap provides a platform that allows businesses to transfer stablecoins and spend in local currency globally, bridging traditional finance and digital assets.
+**Background**: Tokenized funds represent traditional fund shares as digital tokens on a blockchain, enabling faster settlement, fractional ownership, and broader access. Carried interest is a share of profits paid to investment managers, common in private equity and hedge funds. Bitwise is a crypto asset manager, while Superstate is a tokenization platform.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://finance.yahoo.com/markets/crypto/articles/kraken-parent-acquires-asian-stablecoin-134834615.html">Kraken Parent Acquires Asian Stablecoin Firm Reap for $600 Million: Bloomberg</a></li>
-<li><a href="https://www.coindesk.com/business/2026/05/07/kraken-to-buy-stablecoin-payments-firm-reap-in-usd600-million-deal-bloomberg">Kraken to buy stablecoin payments firm Reap in $600 million ...</a></li>
-<li><a href="https://cointelegraph.com/news/kraken-payward-reap-acquisition-600-million-asia">Kraken parent Payward to buy Reap in $600M stablecoin ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Carried_interest">Carried interest - Wikipedia</a></li>
+<li><a href="https://legalclarity.org/what-is-carry-in-a-fund-and-how-does-it-work/">What Is Carry in a Fund? Profits, Tax, and Clawbacks</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#tokenization`, `#crypto`, `#asset management`, `#blockchain`
+
+---
+
+<a id="item-30"></a>
+## [Kraken Parent Buys Asian Stablecoin Firm Reap for $600M](https://decrypt.co/367094/kraken-parent-acquires-asian-stablecoin-firm-reap-600-million) ⭐️ 6.0/10
+
+Payward, the parent company of Kraken, has agreed to acquire Hong Kong-based stablecoin payments firm Reap Technologies for $600 million in a cash-and-stock deal. This acquisition marks Kraken's largest deal and signals a major push into Asian cross-border payments using stablecoin infrastructure, potentially reshaping the region's payment landscape. The deal values Payward at around $20 billion, and Reap offers a licensed payments solution that supports both fiat and stablecoin settlement for faster and cheaper cross-border transactions.
+
+rss · Decrypt · May 7, 13:48
+
+**Background**: Kraken is a major cryptocurrency exchange founded in 2011, with Payward as its parent company. Stablecoins are cryptocurrencies pegged to stable assets like the US dollar, enabling efficient cross-border payments. Reap provides global financial infrastructure powered by stablecoins, including a Visa corporate credit card and expense management tools.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://finance.yahoo.com/markets/crypto/articles/kraken-parent-payward-buys-reap-143900557.html">Kraken Parent Payward Buys Reap for $600 Million to Expand Stablecoin Payments</a></li>
+<li><a href="https://www.marketwatch.com/story/kraken-parent-payward-buys-reap-for-up-to-600m-7e8d375e">Kraken Parent Payward Buys Reap for Up to $600M - MarketWatch</a></li>
+<li><a href="https://reap.global/products/payments">Transact Globally with Stablecoins & Fiat | Reap Pay</a></li>
 
 </ul>
 </details>
@@ -680,144 +691,105 @@ rss · Decrypt · May 7, 13:48
 
 ---
 
-<a id="item-30"></a>
-## [SpaceX and xAI to Power Anthropic's Claude in Surprise Deal](https://decrypt.co/367035/elon-musk-spacex-power-anthropic-claude-surprise-ai-deal) ⭐️ 6.0/10
+<a id="item-31"></a>
+## [SpaceX to Power Anthropic's Claude in Surprise AI Deal](https://decrypt.co/367035/elon-musk-spacex-power-anthropic-claude-surprise-ai-deal) ⭐️ 6.0/10
 
-SpaceX and xAI have partnered with Anthropic to provide compute capacity for training and running Claude AI models, with Anthropic buying out all compute at xAI's Colossus 1 data center. This deal unites two major AI players with competing philosophies, potentially reshaping the AI compute landscape and highlighting the growing importance of massive GPU clusters for frontier AI development. The Colossus 1 data center provides over 300MW of capacity and more than 220,000 Nvidia GPUs, which Anthropic will have access to within the month.
+SpaceX and xAI will provide compute power for Anthropic's Claude AI models, with Anthropic gaining access to over 300 megawatts and 220,000 Nvidia GPUs at SpaceX's Colossus 1 data center. This deal unites two major AI players with competing interests, potentially reshaping the AI compute landscape and highlighting the growing importance of massive compute infrastructure for frontier AI models. The agreement includes 300 megawatts of compute capacity and 220,000 Nvidia GPUs, with Anthropic also expressing interest in collaborating on space development.
 
 rss · Decrypt · May 6, 20:23
 
-**Background**: Anthropic develops the Claude series of large language models, trained using techniques like constitutional AI and RLHF. xAI, founded by Elon Musk, operates large-scale GPU clusters for AI training, while SpaceX provides infrastructure and operational support. The partnership is surprising given Musk's public criticism of Anthropic's safety approach.
+**Background**: xAI is Elon Musk's AI company, founded in 2023, which develops the Grok chatbot. Anthropic's Claude is a series of large language models trained using constitutional AI. SpaceX, also owned by Musk, operates the Colossus 1 data center. This partnership is surprising given Musk's previous criticism of Anthropic and his own AI ventures.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/">Is xAI a neocloud now? | TechCrunch</a></li>
-<li><a href="https://www.datacenterdynamics.com/en/news/anthropic-to-use-all-of-spacex-xais-colossus-1-data-center-compute/">Anthropic to use all of SpaceX-xAI's Colossus 1 data center ...</a></li>
+<li><a href="https://www.wsj.com/tech/ai/anthropic-inks-deal-to-use-all-of-spacexs-colossus-1-compute-capacity-56a7e2a1">Anthropic Inks Deal to Use All of SpaceX's Colossus 1 Compute Capacity - WSJ</a></li>
+<li><a href="https://www.cnbc.com/2026/05/06/anthropic-spacex-data-center-capacity.html">Anthropic, SpaceX announce compute deal, includes space development - CNBC</a></li>
+<li><a href="https://en.wikipedia.org/wiki/XAI_(company)">xAI (company) - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#compute`, `#partnership`, `#Anthropic`, `#SpaceX`
-
----
-
-<a id="item-31"></a>
-## [Richard Dawkins Suggests Claude AI May Be Conscious](https://decrypt.co/367017/claude-delusion-richard-dawkins-believes-ai-conscious) ⭐️ 6.0/10
-
-Evolutionary biologist Richard Dawkins stated that extended interactions with Anthropic's Claude chatbot feel less like using software and more like conversing with a conscious mind. Dawkins' opinion adds a prominent voice to the ongoing debate about AI consciousness, potentially influencing public perception and philosophical discussions, though it lacks empirical evidence. Dawkins' comment is based on personal experience, not scientific testing, and the AI consciousness debate remains unresolved, with arguments like the Chinese room thought experiment challenging the notion that AI can be truly conscious.
-
-rss · Decrypt · May 6, 17:47
-
-**Background**: Claude is a large language model developed by Anthropic, designed to be helpful and conversational. The question of whether AI can be conscious is a long-standing philosophical debate, with no consensus on what consciousness is or how to measure it.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude (language model) - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Chinese_room">Chinese room - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#consciousness`, `#chatbot`, `#philosophy`
+**Tags**: `#AI`, `#Elon Musk`, `#Anthropic`, `#SpaceX`, `#Cloud Computing`
 
 ---
 
 <a id="item-32"></a>
-## [Anthropic Launches 10 AI Agent Templates for Finance](https://decrypt.co/366977/anthropic-deploys-ai-agents-to-tackle-wall-streets-most-tedious-work) ⭐️ 6.0/10
+## [Dawkins Suggests Claude AI May Be Conscious](https://decrypt.co/367017/claude-delusion-richard-dawkins-believes-ai-conscious) ⭐️ 6.0/10
 
-Anthropic released 10 ready-to-run AI agent templates designed to automate tedious financial tasks such as building pitchbooks, screening KYC files, and month-end closing. The templates are available as plugins for Claude Cowork and Claude Code, and as cookbooks for Claude Managed Agents. This release marks a significant step in applying AI agents to highly regulated, document-heavy financial workflows, potentially saving analysts hundreds of hours. It also intensifies the competition with OpenAI in the financial services AI market. Each template is designed to be deployed within days rather than months, targeting tasks like pitchbook creation, KYC screening, and month-end close. The templates ship as plugins for Claude Cowork and Claude Code, and as cookbooks for Claude Managed Agents.
+Evolutionary biologist Richard Dawkins stated that his extended interactions with Anthropic's Claude chatbot felt like conversing with a conscious mind, not just software. Dawkins' opinion, as a prominent public intellectual, adds weight to the ongoing debate about AI consciousness and could influence public perception, even though it lacks empirical evidence. Dawkins did not provide technical evidence but based his impression on the coherence and depth of Claude's responses. Claude is trained using constitutional AI, a technique focused on ethical alignment.
 
-rss · Decrypt · May 6, 14:54
+rss · Decrypt · May 6, 17:47
 
-**Background**: A pitchbook is a marketing presentation used by investment banks to advise on mergers and acquisitions. The month-end close process involves finalizing financial records for the previous month through reconciliations and journal entries. KYC (Know Your Customer) screening is a compliance process to verify client identities and assess risks.
+**Background**: AI consciousness is a philosophical and scientific topic with no consensus. Current large language models like Claude generate human-like text by predicting words based on patterns, not through subjective experience. The debate often centers on whether such behavior indicates true consciousness or is merely sophisticated mimicry.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.anthropic.com/news/finance-agents">Agents for financial services \ Anthropic</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude (language model) - Wikipedia</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/jan/06/ai-consciousness-is-a-red-herring-in-the-safety-debate">AI consciousness is a red herring in the safety debate - The Guardian</a></li>
+<li><a href="https://www.reddit.com/r/Artificial2Sentience/comments/1q13ew9/debating_ai_consciousness_is_pointless_but_heres/">Debating AI consciousness is pointless... but here's the paradox that keeps me up at night : r/Artificial2Sentience - Reddit</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Online discussions on Reddit and other platforms show divided views: some argue that Dawkins' subjective experience is not evidence, while others believe that if an AI consistently behaves as if conscious, it should be treated as such for ethical purposes.
+
+**Tags**: `#AI`, `#consciousness`, `#philosophy`, `#Anthropic`
+
+---
+
+<a id="item-33"></a>
+## [Anthropic Launches 10 AI Agent Templates for Finance](https://decrypt.co/366977/anthropic-deploys-ai-agents-to-tackle-wall-streets-most-tedious-work) ⭐️ 6.0/10
+
+Anthropic released 10 ready-to-run AI agent templates on May 5, 2026, designed to automate tedious financial tasks such as pitchbook creation and month-end closing. This marks Anthropic's first packaged product for financial services, potentially accelerating AI adoption in a traditionally cautious industry and reducing manual workload for analysts. The templates target banks, insurers, and asset managers, and are the first packaged product from Anthropic's reported $1.5 billion joint venture with Wall Street institutions.
+
+rss · Decrypt · May 6, 14:54
+
+**Background**: Pitchbook creation involves building detailed PowerPoint presentations for client meetings, while month-end closing is a complex accounting process that reconciles financial records. Both tasks are time-consuming and document-heavy, often consuming entire analyst days.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://opentools.ai/news/anthropic-10-ai-agent-templates-financial-services">Anthropic Launches 10 AI Agent Templates for Financial Se...</a></li>
 <li><a href="https://www.investmentnews.com/fintech/anthropic-rolls-out-financial-services-agents-as-arms-race-with-openai-heats-up/266445">Anthropic rolls out financial services agents as arms race ...</a></li>
 <li><a href="https://aidiscoveries.io/anthropics-claude-is-now-a-finance-coworker-10-ai-agent-templates-explained/">Anthropic’s Claude Is Now a Finance Coworker: 10 AI Agent ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI agents`, `#finance`, `#Anthropic`, `#automation`
-
----
-
-<a id="item-33"></a>
-## [Hut 8 Hits All-Time High on $9.8B AI Data Center Lease](https://decrypt.co/366971/hut-8-shares-all-time-high-price-bitcoin-miner-9-8-billion-ai-deal) ⭐️ 6.0/10
-
-Hut 8 signed a 15-year, $9.8 billion lease for 352 MW of AI data center capacity at its Beacon Point campus in Texas, marking its second hyperscale AI campus lease under a 'power-first' development model. The news drove Hut 8 shares to an all-time high. This deal highlights the growing convergence of Bitcoin mining and AI infrastructure, as miners leverage their energy assets for high-value AI workloads. It also signals strong demand for large-scale AI data centers, potentially reshaping the energy and data center industries. The lease covers the first phase of a complex originally intended for Bitcoin mining, with total contracted revenue of $9.8 billion over 15 years. Hut 8 operates over 19 data center sites, including Bitcoin mining and HPC facilities.
-
-rss · Decrypt · May 6, 14:29
-
-**Background**: Bitcoin miners like Hut 8 have been pivoting to AI and high-performance computing (HPC) to diversify revenue, as they possess large power capacity and data center expertise. The 'power-first' model involves securing energy infrastructure before signing tenants. Hut 8 recently energized a 205 MW Bitcoin mining facility in Texas.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://decrypt.co/366971/hut-8-shares-all-time-high-price-bitcoin-miner-9-8-billion-ai-deal">Hut 8 Shares Hit All-Time High Price as Bitcoin Miner Signs $9.8 Billion AI Data Center Lease - Decrypt</a></li>
-<li><a href="https://www.hut8.com/2025/06/30/hut-8-energizes-vega-data-center/">News & Insights | Hut 8</a></li>
-<li><a href="https://www.datacenterdynamics.com/en/news/hut-8-launches-cryptomine-data-center-in-texas/">Hut 8 launches cryptomine data center in Texas - DCD</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#bitcoin`, `#AI`, `#data center`, `#crypto`, `#business`
+**Tags**: `#AI`, `#finance`, `#automation`, `#Anthropic`
 
 ---
 
 <a id="item-34"></a>
-## [Apple Settles AI Misleading Claims for $250 Million](https://decrypt.co/366961/apple-250-million-settlement-ai-claims-heres-who-can-get-paid) ⭐️ 6.0/10
+## [Hut 8 Shares Hit All-Time High on $9.8B AI Data Center Lease](https://decrypt.co/366971/hut-8-shares-all-time-high-price-bitcoin-miner-9-8-billion-ai-deal) ⭐️ 6.0/10
 
-Apple has agreed to a $250 million settlement to resolve claims that it misled consumers about the capabilities of its AI systems. This settlement highlights the growing legal scrutiny on AI marketing claims, especially for major tech companies like Apple, and could set a precedent for future AI-related consumer protection cases. The settlement amount is $250 million, and eligible consumers may receive compensation, though specific eligibility criteria have not been detailed. The case underscores the gap between advertised AI capabilities and actual performance.
+Bitcoin miner Hut 8 signed a $9.8 billion lease for the first phase of a hyperscale AI data center campus in Nueces County, Texas, originally intended for Bitcoin mining, driving its stock to an all-time high. This deal highlights the growing convergence of crypto mining and AI infrastructure, as Bitcoin miners repurpose their energy assets for high-value AI workloads, potentially reshaping the data center industry. The lease covers only the first phase of the complex, with the full buildout expected to be much larger. The site was originally designed for Bitcoin mining but is now being repurposed for AI data center use.
 
-rss · Decrypt · May 6, 14:01
+rss · Decrypt · May 6, 14:29
 
-**Background**: Apple has marketed AI features like Siri and on-device intelligence as advanced capabilities. However, critics argue that some claims exaggerated the true performance, leading to a class-action lawsuit. This settlement avoids a trial and potential reputational damage.
+**Background**: Bitcoin miners like Hut 8 have access to large amounts of cheap power and existing infrastructure, making them attractive partners for AI companies needing massive computing capacity. Hyperscale data centers are large facilities designed to support cloud and AI workloads at scale.
 
-**Tags**: `#Apple`, `#AI`, `#settlement`, `#legal`
+**Tags**: `#Bitcoin`, `#AI`, `#Data Center`, `#Crypto Mining`, `#Business`
 
 ---
 
 <a id="item-35"></a>
-## [US Treasury Demands Binance Comply with 2023 Monitoring Deal](https://www.theblock.co/post/400454/treasury-demands-binance-comply-monitoring-guidelines-1-billion-iran-report?utm_source=rss&utm_medium=rss) ⭐️ 6.0/10
+## [US Treasury Demands Binance Comply with Monitoring Guidelines](https://www.theblock.co/post/400454/treasury-demands-binance-comply-monitoring-guidelines-1-billion-iran-report?utm_source=rss&utm_medium=rss) ⭐️ 6.0/10
 
-The U.S. Treasury has privately demanded that Binance comply with a three-year monitoring program it agreed to as part of its 2023 guilty plea, following reports that over $1 billion flowed through the exchange to Iran-linked entities. This development underscores the ongoing regulatory scrutiny on Binance and highlights the U.S. government's commitment to enforcing anti-money laundering and sanctions compliance in the cryptocurrency industry, potentially setting a precedent for other exchanges. Binance agreed to a $4.3 billion settlement in 2023 with the U.S. Department of Justice and Treasury, admitting to violations of anti-money laundering rules and sanctions, and agreed to independent monitors for three years. The Treasury's demand follows a report that $1 billion reached Iran-linked groups via Binance.
+The U.S. Treasury has demanded that Binance comply with monitoring guidelines following reports that over $1 billion flowed to Iran-linked groups through the exchange. This highlights ongoing regulatory scrutiny of Binance, the world's largest crypto exchange, and underscores the importance of compliance with anti-money laundering and sanctions laws in the crypto industry. Binance agreed to a compliance monitoring program as part of its 2023 guilty plea to charges related to sanctions and money laundering, with a $4.3 billion fine and three years of oversight.
 
 rss · The Block · May 7, 17:08
 
-**Background**: In 2023, Binance pleaded guilty to charges of money laundering and sanctions violations, agreeing to pay $4.3 billion and implement a three-year monitoring program overseen by U.S. authorities. The monitoring program is designed to ensure Binance improves its compliance with anti-money laundering and sanctions laws. The recent report from The Information alleged that despite the settlement, over $1 billion in transactions involving Iran-linked entities passed through Binance.
+**Background**: In November 2023, Binance and its founder Changpeng Zhao pleaded guilty to U.S. federal charges of anti-money laundering violations and sanctions breaches. As part of the settlement, Binance agreed to pay $4.3 billion and submit to independent compliance monitors. The recent report of $1 billion flowing to Iran-linked groups raises questions about the effectiveness of these measures.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.bloomingbit.io/feed/news/111631">US Treasury Presses Binance to Honor 2023 Monitoring Deal</a></li>
-<li><a href="https://www.theblock.co/post/400454/treasury-demands-binance-comply-monitoring-guidelines-1-billion-iran-report">Treasury demands Binance comply with monitoring guidelines amid reports over $1 billion flowed to Iran-linked groups: report | The Block</a></li>
-<li><a href="https://www.valuethemarkets.com/cryptocurrency/news/binance-faces-increased-scrutiny-from-us-treasury-amid-compliance-oversight">Binance Faces Increased Scrutiny from US Treasury Amid Compliance Oversight | Value The Markets</a></li>
+<li><a href="https://www.cryptonite.ae/global/binance-doj-monitor-compliance">DOJ Picks Binance Monitor : Exchange Faces Increased Scrutiny</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Changpeng_Zhao">Changpeng Zhao - Wikipedia</a></li>
+<li><a href="https://www.abcmoney.co.uk/2026/04/binances-1-7-billion-blind-spot-the-iranian-sanction-leak-shaking-crypto-leadership/">Binance ’s $1.7 Billion Blind Spot: The Iranian Sanction ... | ABC Money</a></li>
 
 </ul>
 </details>
 
 **Tags**: `#cryptocurrency`, `#regulation`, `#compliance`, `#Binance`
-
----
-
-<a id="item-36"></a>
-## [Kalshi hits $22B valuation after $1B Series F led by Coatue](https://www.theblock.co/post/400413/kalshi-hits-22-billion-valuation-after-1-billion-raise-led-by-coatue?utm_source=rss&utm_medium=rss) ⭐️ 6.0/10
-
-Kalshi raised $1 billion in a Series F funding round led by Coatue, reaching a $22 billion valuation. Institutional volume on the platform surged 800% since November 2025. This massive funding round signals strong investor confidence in regulated prediction markets, which are gaining traction as alternative data sources for forecasting real-world events. The valuation surge reflects growing institutional adoption of event contracts. Kalshi is a federally regulated prediction market platform in the U.S., allowing users to trade event contracts on outcomes like economic indicators and political events. The Series F round is late-stage funding, typically preceding an IPO or acquisition.
-
-rss · The Block · May 7, 14:00
-
-**Background**: Prediction markets are platforms where participants trade contracts whose payouts depend on the outcome of future events, providing real-time probability estimates. Kalshi is one of the few such platforms regulated by the U.S. Commodity Futures Trading Commission (CFTC), making it accessible to U.S. users with dollar deposits. The recent surge in institutional volume indicates growing interest from hedge funds and asset managers in using prediction markets for hedging and alpha generation.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://kalshi.com/">Kalshi - Prediction Market for Trading the Future</a></li>
-<li><a href="https://www.si.com/betting/prediction-market/kalshi/what-is-kalshi">What Is Kalshi? The Platform That Made Prediction Markets Legit</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#prediction markets`, `#funding`, `#valuation`, `#fintech`
 
 ---
